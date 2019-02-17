@@ -1,17 +1,20 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import Theme from "typography-theme-alton"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
+// Theme.googleFonts = [
+//   {
+//     name: 'Lobster',
+//     styles: ['400'],
+//   },
+//   {
+//     name: 'Open Sans',
+//     styles: ['400', '400i', '700', '700i'],
+//   },
+// ]
 
-delete Wordpress2016.googleFonts
+// Theme.headerFontFamily = ['Lobster', 'Georgia', 'serif']
 
-const typography = new Typography(Wordpress2016)
+const typography = new Typography(Theme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {

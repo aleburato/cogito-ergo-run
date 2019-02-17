@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `So, i run.`,
+    author: `Alessandro Burato`,
+    description: `A blog on the sheer inevitability of running.`,
+    siteUrl: `https://soirun.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ale_burato`,
+      facebook: `ale_burato`,
     },
   },
   plugins: [
@@ -57,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `So i run`,
+        short_name: `soirun`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
