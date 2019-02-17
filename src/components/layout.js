@@ -21,7 +21,7 @@ class Layout extends React.Component {
         >
           <h1
             style={{
-              ...scale(1.5),
+              ...scale(1.6),
               marginTop: 0,
               marginBottom: 0
             }}

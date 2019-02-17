@@ -1,23 +1,30 @@
 import Typography from "typography";
 import Theme from "typography-theme-alton";
 
-// const headerFontFamily = "Yeseva One";
-// const bodyFontFamily = "Cabin";
+const headerFontFamily = "Unica One";
+const bodyFontFamily = "Lora";
 
-// Theme.googleFonts = [
-//   {
-//     name: headerFontFamily,
-//     styles: ["400", "700"]
-//   },
-//   {
-//     name: bodyFontFamily,
-//     styles: ["400", "400i", "700", "700i"]
-//   }
-// ];
+Theme.googleFonts = [
+  {
+    name: headerFontFamily,
+    styles: ["400"]
+  },
+  {
+    name: bodyFontFamily,
+    styles: ["400", "400i", "700", "700i"]
+  }
+];
 
-// Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
-// Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
-// Theme.headerWeight = "normal";
+Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
+Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
+Theme.headerWeight = "normal";
+// Theme.scaleRatio = 3;
+
+Theme.overrideThemeStyles = ({ rhythm }, options) => ({
+  "h1,h2,h3,h4,h5,h6": {
+    textTransform: "uppercase"
+  }
+});
 
 const typography = new Typography(Theme);
 
