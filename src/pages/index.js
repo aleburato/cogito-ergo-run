@@ -6,6 +6,7 @@ import React from "react";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
+import { rhythm } from "../utils/typography";
 
 class BlogIndex extends React.Component {
   render() {
@@ -17,7 +18,13 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle} description={siteDescription}>
         <SEO title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-        <Bio />
+        <div
+          style={{
+            marginBottom: rhythm(2.5)
+          }}
+        >
+          <Bio />
+        </div>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug;
           return (
