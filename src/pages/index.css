@@ -1,3 +1,11 @@
 .post-block + .post-block {
   margin-top: 2.5em;
 }
+
+.txt-small {
+  font-size: 0.8em;
+}
+
+.txt-muted {
+  color: #888;
+}

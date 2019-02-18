@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/public": true
+    },
+    "editor.formatOnSave": true
+}

@@ -1,10 +1,10 @@
 // @ts-nocheck
 
+import { rhythm, scale } from "../utils/typography";
+
 import { Link } from "gatsby";
 import React from "react";
-
 import logo from "../../content/assets/running.svg";
-import { rhythm, scale } from "../utils/typography";
 
 class Header extends React.Component {
   render() {
@@ -30,7 +30,10 @@ class Header extends React.Component {
             src={logo}
           />
         </h1>
-        <p style={{ fontStyle: "italic" }}>{description}</p>
+        <p>
+          {" "}
+          <em>{description}</em>
+        </p>
       </div>
     ) : (
       <div>

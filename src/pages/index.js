@@ -1,10 +1,10 @@
 import "./index.css";
 
 import { Link, graphql } from "gatsby";
-import React from "react";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
+import React from "react";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
 
@@ -36,9 +36,7 @@ class BlogIndex extends React.Component {
               >
                 <Link to={node.fields.slug}>{title}</Link>
               </h2>
-              <p>
-                <small>{node.frontmatter.date}</small>
-              </p>
+              <p className="txt-small txt-muted">{node.frontmatter.date}</p>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
           );
@@ -61,12 +59,12 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
-          excerpt
+          excerpt(pruneLength: 160)
           fields {
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMM DD, YYYY", locale: "it")
             title
           }
         }

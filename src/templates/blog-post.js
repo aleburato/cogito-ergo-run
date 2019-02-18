@@ -1,10 +1,10 @@
 import { Link, graphql } from "gatsby";
-import React from "react";
+import { rhythm, scale } from "../utils/typography";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
+import React from "react";
 import SEO from "../components/seo";
-import { rhythm, scale } from "../utils/typography";
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -17,6 +17,7 @@ class BlogPostTemplate extends React.Component {
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
         <p
+          className="txt-muted"
           style={{
             ...scale(-1 / 5),
             display: `block`,
