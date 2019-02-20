@@ -2,7 +2,7 @@ import Typography from "typography";
 import Theme from "typography-theme-alton";
 
 const headerFontFamily = "Unica One";
-const bodyFontFamily = "Lora";
+const bodyFontFamily = "Merriweather";
 
 Theme.googleFonts = [
   {
