@@ -26,6 +26,8 @@ Theme.overrideThemeStyles = ({ rhythm }, options) => ({
   }
 });
 
+console.log("TYPOGRAPHY THEME OBJ", Theme);
+
 const typography = new Typography(Theme);
 
 // Hot reload typography in development.
