@@ -4,6 +4,7 @@ import Theme from "typography-theme-alton";
 const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
 
+Theme.baseFontSize = "16px";
 Theme.googleFonts = [
   {
     name: headerFontFamily,
