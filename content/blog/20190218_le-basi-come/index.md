@@ -23,6 +23,8 @@ A questo punto ho due scelte: me ne frego e premo _start_, oppure...
 
 Per fortuna scelgo _oppure_. Un'epifania alla vigilia. Grazie Gesù che devi ancora nascere. Grazie contatto di FB scortese ma sincero.
 
+Modifica con **MARKOR**
+
 (continua)
 
 [^1]: _Brodo:_ termine maremmano atto a indicare persona di scarsa intelligenza e/o valore. Come _bischero_, ma peggio.
