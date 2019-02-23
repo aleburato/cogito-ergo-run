@@ -9,3 +9,11 @@
 .txt-muted {
   color: #888;
 }
+
+p > a.gatsby-resp-image-link + em {
+  font-size: 0.7em;
+  color: #888;
+  margin-top: 0.5em;
+  display: block;
+  text-align: right;
+}
