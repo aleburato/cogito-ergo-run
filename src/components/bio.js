@@ -1,7 +1,7 @@
 import { StaticQuery, graphql } from "gatsby";
+
 import Image from "gatsby-image";
 import React from "react";
-
 import { rhythm } from "../utils/typography";
 
 function Bio() {
@@ -30,12 +30,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>: runnerd, photographer, biker.
+              Scritto da <strong>{author}</strong>: run-nerd, fotografo smarrito, centauro
+              casuale. Sfortunatissimo nel gioco.
               <br />
-              Unlucky in cards.
-              <br />
-              You should follow him on{" "}
-              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a> /{" "}
+              Sono anche su <a href={`https://twitter.com/${social.twitter}`}>Twitter</a> /{" "}
               <a href={`https://facebook.com/${social.facebook}`}>Facebook</a>
             </p>
           </div>

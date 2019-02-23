@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `So, i run.`,
     author: `Alessandro Burato`,
-    description: `A blog on the sheer inevitability of running.`,
+    description: `Un blog sull’inevitabilità della corsa`,
     siteUrl: `https://soirun.netlify.com/`,
     social: {
       twitter: `ale_burato`,

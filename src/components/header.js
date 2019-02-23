@@ -31,8 +31,7 @@ class Header extends React.Component {
           />
         </h1>
         <p>
-          {" "}
-          <em>{description}</em>
+          <em>{description}.</em>
         </p>
       </div>
     ) : (

@@ -11,7 +11,7 @@ Iniziamo dal _quando_, arriveremo poi al _come_. E al _perché_.<!-- end -->
 
 Peso **102kg x 172cm**, ho alle spalle un numero imprecisato di tessere della palestra appena scalfite e diete fallite con gli interessi.
 
-Il programma è finire [God Of War](https://it.wikipedia.org/wiki/God_of_War:_Ascension) una volta per tutte: non avrò i muscoli e l'agilità di [Kratos](<https://it.wikipedia.org/wiki/Kratos_(God_of_War)>), ma ho un joypad per controllarlo e un numero a piacere di potenziali fallimenti, senza conseguenze più gravi di un "riparti dall'ultimo salvataggio".
+Il programma è finire [God Of War](https://it.wikipedia.org/wiki/God_of_War:_Ascension) una volta per tutte: non avrò i muscoli e l'agilità di [Kratos](<https://it.wikipedia.org/wiki/Kratos_(God_of_War)>), ma ho un joypad per controllarlo e un numero a piacere di potenziali fallimenti, senza che le conseguenze debbano essere più gravi di un "riparti dall'ultimo salvataggio".
 
 Son pronto: la gioja è tale che prendo in mano il cellulare e, su Facebook, annunciaziò: il vs. Burato avrà la meglio su mitici mostri di pixel mitologici, in una bella maratona di Playstation.
 
