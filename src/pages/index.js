@@ -1,10 +1,10 @@
 import "./index.css";
 
 import { Link, graphql } from "gatsby";
+import React from "react";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-import React from "react";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
 
@@ -20,7 +20,7 @@ class BlogIndex extends React.Component {
         <SEO title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
         <div
           style={{
-            marginBottom: rhythm(2.5)
+            marginBottom: rhythm(2.2)
           }}
         >
           <Bio />
@@ -38,6 +38,13 @@ class BlogIndex extends React.Component {
               </h2>
               <p className="txt-small txt-muted">{node.frontmatter.date}</p>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <p>
+                <small>
+                  <em>
+                    <Link to={node.fields.slug}>(leggi tutto)</Link>
+                  </em>
+                </small>
+              </p>
             </div>
           );
         })}
@@ -59,7 +66,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
-          excerpt(pruneLength: 160)
+          excerpt(format: HTML, pruneLength: 160)
           fields {
             slug
           }

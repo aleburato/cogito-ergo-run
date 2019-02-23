@@ -1,10 +1,10 @@
 // @ts-nocheck
 
-import { rhythm, scale } from "../utils/typography";
-
 import { Link } from "gatsby";
 import React from "react";
+
 import logo from "../../content/assets/running.svg";
+import { rhythm, scale } from "../utils/typography";
 
 class Header extends React.Component {
   render() {
@@ -26,7 +26,7 @@ class Header extends React.Component {
           <Link to={`/`}>{title}</Link>
           <img
             alt="The site logo"
-            style={{ width: "32px", height: "32px", margin: "0 0 0 0.2em" }}
+            style={{ width: "42px", height: "42px", margin: "0 0 0 0.2em" }}
             src={logo}
           />
         </h1>

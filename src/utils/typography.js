@@ -1,5 +1,5 @@
-import Theme from "typography-theme-alton";
 import Typography from "typography";
+import Theme from "typography-theme-alton";
 
 const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
@@ -22,7 +22,7 @@ Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
 Theme.bodyColor = "#131516";
 Theme.headerWeight = "normal";
-// Theme.scaleRatio = 3;
+Theme.scaleRatio = 2.5;
 
 Theme.overrideThemeStyles = ({ rhythm }, options) => ({
   "h1,h2,h3,h4,h5,h6": {

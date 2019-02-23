@@ -8,9 +8,9 @@ _Photo by Holger Link on Unsplash_
 
 _"Come hai iniziato a correre?"_
 
-Iniziamo dal _quando_, arriveremo poi al _come_. E al _perché_.<!-- end -->
+Iniziamo dal _quando_, arriveremo poi al _come_. E al _perché_.
 
-È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare, letteralmente, il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3).
+È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare, letteralmente, il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3).<!-- end -->
 
 Peso **102kg x 172cm**, ho alle spalle un numero imprecisato di tessere della palestra appena scalfite e diete fallite con gli interessi.
 
@@ -24,7 +24,7 @@ Ecco, non ho ancora iniziato a giocare e già mi han fatto un culo considerevole
 
 A questo punto ho due scelte: me ne frego e premo _start_, oppure...
 
-Per fortuna scelgo _oppure_. "Oppure mi vesto e vado a passeggiare sulla spiaggia", per la precisione. Un'epifania alla vigilia. Grazie Gesù che domani nasci, grazie _(obtorto collo)_ contatto di FB scortese ma sincero _(che magari domani muori, era molto obtorto il collo, ma divago)_.
+Per fortuna scelgo _oppure_. "Oppure mi vesto e vado a passeggiare sulla spiaggia", per la precisione. Un'epifania alla vigilia. Grazie Gesù che domani nasci, grazie _(obtorto collo)_ contatto di FB scortese ma sincero _(che magari domani muori, era molto obtorto il collo, eh)_.
 
 (continua)
 
