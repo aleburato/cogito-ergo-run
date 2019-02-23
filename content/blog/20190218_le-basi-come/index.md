@@ -16,7 +16,7 @@ Peso **102kg x 172cm**, ho alle spalle un numero imprecisato di tessere della pa
 
 Il programma è finire [God Of War](https://it.wikipedia.org/wiki/God_of_War:_Ascension) una volta per tutte: non avrò i muscoli e l'agilità di [Kratos](<https://it.wikipedia.org/wiki/Kratos_(God_of_War)>), ma ho un joypad per controllarlo e un numero a piacere di potenziali fallimenti, senza che le conseguenze debbano essere più gravi di un "riparti dall'ultimo salvataggio".
 
-Son pronto: la gioja è tale che prendo in mano il cellulare e, su Facebook, lo annuncio in pompa magna: il vs. avrà la meglio su mitici mostri di pixel mitologici, in una bella maratona di Playstation, _AH BENE!_
+Son pronto: la gioja è tale che prendo in mano il cellulare e, su Facebook, lo annuncio in pompa magna: _"il vs. avrà la meglio su mitici mostri di pixel mitologici, in una bella maratona di Playstation, AH BENE!"_
 
 **_"Bravo coglione!"_** --mi risponde uno dei miei contatti. **_"Con una giornata così, invece di goderti l'aria e il mare... Va a farti una passeggiata, BRODO [^1] --te la meriti proprio la Pleistescion"_** (sic).
 
