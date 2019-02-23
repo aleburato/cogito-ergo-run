@@ -37,7 +37,10 @@ class BlogIndex extends React.Component {
                 <Link to={node.fields.slug}>{title}</Link>
               </h2>
               <p className="txt-small txt-muted">{node.frontmatter.date}</p>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <div
+                className="post-excerpt"
+                dangerouslySetInnerHTML={{ __html: node.excerpt }}
+              />
               <p>
                 <small>
                   <em>
