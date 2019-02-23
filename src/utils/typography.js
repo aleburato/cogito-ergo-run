@@ -1,10 +1,12 @@
-import Typography from "typography";
 import Theme from "typography-theme-alton";
+import Typography from "typography";
 
 const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
 
 Theme.baseFontSize = "16px";
+Theme.baseLineHeight = 1.55;
+
 Theme.googleFonts = [
   {
     name: headerFontFamily,
@@ -18,12 +20,16 @@ Theme.googleFonts = [
 
 Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
+Theme.bodyColor = "#131516";
 Theme.headerWeight = "normal";
 // Theme.scaleRatio = 3;
 
 Theme.overrideThemeStyles = ({ rhythm }, options) => ({
   "h1,h2,h3,h4,h5,h6": {
     textTransform: "uppercase"
+  },
+  a: {
+    color: "#107896"
   }
 });
 

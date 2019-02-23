@@ -43,14 +43,7 @@ class Header extends React.Component {
             marginBottom: "0.25em"
           }}
         >
-          <Link
-            style={{
-              color: `inherit`
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
+          <Link to={`/`}>{title}</Link>
         </h3>
         <p>...</p>
       </div>

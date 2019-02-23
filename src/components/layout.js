@@ -1,9 +1,8 @@
 // @ts-nocheck
 
-import React from "react";
-
-import { rhythm } from "../utils/typography";
 import Header from "./header";
+import React from "react";
+import { rhythm } from "../utils/typography";
 
 class Layout extends React.Component {
   render() {
@@ -15,7 +14,7 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(28),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
         }}
       >
