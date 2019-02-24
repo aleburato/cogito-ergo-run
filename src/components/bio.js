@@ -1,7 +1,7 @@
 import { StaticQuery, graphql } from "gatsby";
-
 import Image from "gatsby-image";
 import React from "react";
+
 import { rhythm } from "../utils/typography";
 
 function Bio() {
@@ -22,7 +22,8 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 80,
+                minHeight: 80,
                 borderRadius: `100%`
               }}
               imgStyle={{
@@ -47,7 +48,7 @@ const bioQuery = graphql`
   query BioQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50, quality: 90) {
+        fixed(width: 80, height: 80, quality: 90) {
           ...GatsbyImageSharpFixed
         }
       }
