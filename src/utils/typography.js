@@ -7,16 +7,20 @@ const bodyFontFamily = "Merriweather";
 Theme.baseFontSize = "16px";
 Theme.baseLineHeight = 1.55;
 
-Theme.googleFonts = [
-  {
-    name: headerFontFamily,
-    styles: ["400"]
-  },
-  {
-    name: bodyFontFamily,
-    styles: ["400", "400i", "700", "700i"]
-  }
-];
+delete Theme.googleFonts;
+
+// using local typefaces imported in gatsby-browser.js
+
+// Theme.googleFonts = [
+//   {
+//     name: headerFontFamily,
+//     styles: ["400"]
+//   },
+//   {
+//     name: bodyFontFamily,
+//     styles: ["400", "400i", "700", "700i"]
+//   }
+// ];
 
 Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
