@@ -64,8 +64,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `So i run`,
-        short_name: `soirun`,
+        name: `Cogito ergo run`,
+        short_name: `cogitoergorun`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
