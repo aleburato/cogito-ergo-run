@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `So, i run.`,
+    title: `Cogito, ergo run.`,
     author: `Alessandro Burato`,
-    description: `Un blog sull’inevitabilità della corsa`,
-    siteUrl: `https://soirun.netlify.com/`,
+    description: `Un blog sull’inevitabilità del correre`,
+    siteUrl: `https://cogito.ergo.run/`,
     social: {
       twitter: `ale_burato`,
       facebook: `ale_burato`

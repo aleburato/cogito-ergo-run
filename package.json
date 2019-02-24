@@ -1,7 +1,7 @@
 {
-  "name": "so-i-run",
+  "name": "cogito-ergo-run",
   "private": true,
-  "description": "A personal blog",
+  "description": "A personal blog on running, made with gatsbyjs",
   "version": "0.1.0",
   "author": "Alessandro Burato <alessandro.burato@outlook.com>",
   "dependencies": {
@@ -33,7 +33,7 @@
     "typography": "^0.16.18",
     "typography-theme-alton": "^0.16.18"
   },
-  "homepage": "https://soirun.netlify.com",
+  "homepage": "https://cogito.ergo.run",
   "keywords": [
     "gatsby"
   ],
