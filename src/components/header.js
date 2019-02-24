@@ -18,7 +18,7 @@ class Header extends React.Component {
       >
         <h1
           style={{
-            ...scale(1.6),
+            ...scale(1.2),
             marginTop: 0,
             marginBottom: 0
           }}
@@ -26,7 +26,7 @@ class Header extends React.Component {
           <Link to={`/`}>{title}</Link>
           <img
             alt="The site logo"
-            style={{ width: "42px", height: "42px", margin: "0 0 0 0.2em" }}
+            style={{ width: "30px", height: "30px", margin: "0 0 0 -0.1em" }}
             src={logo}
           />
         </h1>
