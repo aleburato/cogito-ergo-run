@@ -41,7 +41,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aleburato/so-i-run"
+    "url": "git+https://github.com/aleburato/cogito-ergo-run"
   },
   "scripts": {
     "build": "gatsby build",
