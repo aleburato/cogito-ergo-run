@@ -38,10 +38,12 @@ class BlogIndex extends React.Component {
                 <Link to={node.fields.slug}>{title}</Link>
               </h2>
               <p className="txt-small txt-muted">{node.frontmatter.date}</p>
-              <Img
-                className="post-featured-image"
-                fixed={node.frontmatter.featuredImage.childImageSharp.fixed}
-              />
+              <Link to={node.fields.slug}>
+                <Img
+                  className="post-featured-image"
+                  fixed={node.frontmatter.featuredImage.childImageSharp.fixed}
+                />
+              </Link>
               <p className="image-desc">
                 <em>{node.frontmatter.featuredImageDesc}</em>
               </p>
