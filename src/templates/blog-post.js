@@ -1,4 +1,5 @@
 import { Link, graphql } from "gatsby";
+import Img from "gatsby-image";
 import React from "react";
 
 import Bio from "../components/bio";
@@ -26,6 +27,13 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           {post.frontmatter.date}
+        </p>
+        <Img
+          className="post-featured-image"
+          fixed={post.frontmatter.featuredImage.childImageSharp.fixed}
+        />
+        <p className="image-desc">
+          <em>{post.frontmatter.featuredImageDesc}</em>
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>...</p>
@@ -78,11 +86,18 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title
         date(formatString: "MMM DD, YYYY", locale: "it")
+        featuredImageDesc
+        featuredImage {
+          childImageSharp {
+            fixed(width: 658) {
+              ...GatsbyImageSharpFixed_tracedSVG
+            }
+          }
+        }
       }
     }
   }

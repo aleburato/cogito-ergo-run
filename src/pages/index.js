@@ -1,6 +1,7 @@
 import "./index.css";
 
 import { Link, graphql } from "gatsby";
+import Img from "gatsby-image";
 import React from "react";
 
 import Bio from "../components/bio";
@@ -37,6 +38,13 @@ class BlogIndex extends React.Component {
                 <Link to={node.fields.slug}>{title}</Link>
               </h2>
               <p className="txt-small txt-muted">{node.frontmatter.date}</p>
+              <Img
+                className="post-featured-image"
+                fixed={node.frontmatter.featuredImage.childImageSharp.fixed}
+              />
+              <p className="image-desc">
+                <em>{node.frontmatter.featuredImageDesc}</em>
+              </p>
               <div
                 className="post-excerpt"
                 dangerouslySetInnerHTML={{ __html: node.excerpt }}
@@ -76,6 +84,14 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMM DD, YYYY", locale: "it")
             title
+            featuredImageDesc
+            featuredImage {
+              childImageSharp {
+                fixed(width: 658) {
+                  ...GatsbyImageSharpFixed_tracedSVG
+                }
+              }
+            }
           }
         }
       }

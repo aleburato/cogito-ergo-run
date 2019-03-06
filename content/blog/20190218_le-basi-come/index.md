@@ -1,10 +1,9 @@
 ---
 title: "Le basi: come"
 date: "2019-02-18"
+featuredImage: "./holger-link-724884-unsplash.jpg"
+featuredImageDesc: "Photo by Holger Link on Unsplash"
 ---
-
-![Photo by Holger Link on Unsplash](./holger-link-724884-unsplash.jpg)
-_Photo by Holger Link on Unsplash_
 
 _"Come hai iniziato a correre?"_
 

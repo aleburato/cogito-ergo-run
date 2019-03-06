@@ -10,7 +10,8 @@
   color: #888;
 }
 
-p > a.gatsby-resp-image-link + em {
+p > a.gatsby-resp-image-link + em,
+p.image-desc {
   font-size: 0.7em;
   color: #888;
   margin-top: 0.5em;
