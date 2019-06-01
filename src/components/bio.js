@@ -1,7 +1,7 @@
 import { StaticQuery, graphql } from "gatsby";
+
 import Image from "gatsby-image";
 import React from "react";
-
 import { rhythm } from "../utils/typography";
 
 function Bio() {
@@ -30,13 +30,20 @@ function Bio() {
                 borderRadius: `50%`
               }}
             />
-            <p>
-              Scritto da <strong>{author}</strong>: run-nerd, fotografo smarrito, centauro
-              casuale. Sfortunatissimo nel gioco.
-              <br />
-              Sono anche su <a href={`https://twitter.com/${social.twitter}`}>Twitter</a> /{" "}
-              <a href={`https://facebook.com/${social.facebook}`}>Facebook</a>
-            </p>
+            <div>
+              <p>
+                Scritto da <strong>{author}</strong>: run-nerd, centauro a strappi, marito,
+                babbo. Sfortunato nel gioco.
+              </p>
+              <p>
+                Social? <a href={`https://twitter.com/${social.twitter}`}>twitter</a>,{" "}
+                <a href={`https://facebook.com/${social.facebook}`}>facebook</a> e{" "}
+                <a href={`https://www.instagram.com/${social.instagram}`}>
+                  #hofattoanchefotobuone
+                </a>
+                .
+              </p>
+            </div>
           </div>
         );
       }}
@@ -59,6 +66,7 @@ const bioQuery = graphql`
         social {
           twitter
           facebook
+          instagram
         }
       }
     }

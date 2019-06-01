@@ -6,7 +6,8 @@ module.exports = {
     siteUrl: `https://cogito.ergo.run/`,
     social: {
       twitter: `ale_burato`,
-      facebook: `ale_burato`
+      facebook: `ale_burato`,
+      instagram: `alessandro.burato`
     }
   },
   plugins: [
