@@ -1,11 +1,11 @@
 import { Link, graphql } from "gatsby";
-import Img from "gatsby-image";
-import React from "react";
+import { rhythm, scale } from "../utils/typography";
 
 import Bio from "../components/bio";
+import Img from "gatsby-image";
 import Layout from "../components/layout";
+import React from "react";
 import SEO from "../components/seo";
-import { rhythm, scale } from "../utils/typography";
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
         </p>
         <Img
           className="post-featured-image"
-          fixed={post.frontmatter.featuredImage.childImageSharp.fixed}
+          fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
         />
         <p className="image-desc">
           <em>{post.frontmatter.featuredImageDesc}</em>
@@ -93,8 +93,8 @@ export const pageQuery = graphql`
         featuredImageDesc
         featuredImage {
           childImageSharp {
-            fixed(width: 658) {
-              ...GatsbyImageSharpFixed_tracedSVG
+            fluid(maxWidth: 658) {
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }

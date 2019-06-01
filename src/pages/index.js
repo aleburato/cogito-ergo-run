@@ -1,11 +1,11 @@
 import "./index.css";
 
 import { Link, graphql } from "gatsby";
-import Img from "gatsby-image";
-import React from "react";
 
 import Bio from "../components/bio";
+import Img from "gatsby-image";
 import Layout from "../components/layout";
+import React from "react";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
 
@@ -41,7 +41,7 @@ class BlogIndex extends React.Component {
               <Link to={node.fields.slug}>
                 <Img
                   className="post-featured-image"
-                  fixed={node.frontmatter.featuredImage.childImageSharp.fixed}
+                  fluid={node.frontmatter.featuredImage.childImageSharp.fluid}
                 />
               </Link>
               <p className="image-desc">
@@ -89,8 +89,8 @@ export const pageQuery = graphql`
             featuredImageDesc
             featuredImage {
               childImageSharp {
-                fixed(width: 658) {
-                  ...GatsbyImageSharpFixed_tracedSVG
+                fluid(maxWidth: 658) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
