@@ -18,3 +18,7 @@ p.image-desc {
   display: block;
   text-align: right;
 }
+
+.footnotes {
+  margin-top: 2.5em;
+}
