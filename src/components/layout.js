@@ -29,8 +29,8 @@ class Layout extends React.Component {
           <p>
             <em>
               <small>
-                © {new Date().getFullYear()}, built with a lot of love and{" "}
-                <a href="https://www.gatsbyjs.org">gatsbyjs</a>
+                © {new Date().getFullYear()}, costruito con amore, sudore, odore e{" "}
+                <a href="https://www.gatsbyjs.org">gatsbyjs</a>.
               </small>
             </em>
           </p>
