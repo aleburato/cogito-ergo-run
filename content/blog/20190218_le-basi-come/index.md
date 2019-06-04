@@ -43,7 +43,7 @@ Devo anche attraversare una zona in cui la spiaggia è stata completamente erosa
 
 ![Torre mozza!](torre_mozza.jpg)
 
-Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico e torno subito indietro: ho paura che se mi fermo tocca chiamare l'elisoccorso. Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una samplice "passeggiata".
+Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso. Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
 
 Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**.
 
