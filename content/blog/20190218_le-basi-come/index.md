@@ -45,8 +45,22 @@ Devo anche attraversare una zona in cui la spiaggia è stata completamente erosa
 
 Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso. Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
 
-Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**.
-
 ![Il mio primo allenamento!](allenamento.jpg)
+
+Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**: una camminata, perché iniziare correndo sarebbe stato un gravissimo errore ed avrebbe certamente comportato l'abbandono del tutto dopo 5 minuti di affanno e sconforto.
+
+## Ancora! Ancora!
+
+A casa, dopo una doverosa doccia, mi metto a riguardare la camminata sul GPS: _"Davvero ho fatto tutta quella strada? Oh, 12km sono roba eh? Torre Mozza! Pensa te. Quasi quasi la prossima settimana ci riprovo."_
+
+Vabbè, ora però PlayStation, eh?
+
+## Però torno
+
+Dopo 4 giorni, ripeto lo stesso percorso. La volta dopo inverto la direzione e vado verso il porto di Scarlino. Bello, questa cosa mi prende. Un ciccione ansimante  vestito male che cammina spedito lungo la spiaggia, ascoltando la musica. E sorride.
+
+## Sì ma la corsa?
+
+Per circa 3 mesi, non esiste.
 
 [^1]: _Brodo:_ termine maremmano atto a indicare persona di scarsa intelligenza e/o valore. Come _bischero_, ma peggio.
