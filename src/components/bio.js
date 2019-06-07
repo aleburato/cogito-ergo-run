@@ -4,6 +4,8 @@ import Image from "gatsby-image";
 import React from "react";
 import { rhythm } from "../utils/typography";
 
+import "./bio.css";
+
 function Bio() {
   return (
     <StaticQuery
