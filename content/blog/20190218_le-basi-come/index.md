@@ -7,7 +7,7 @@ featuredImageDesc: "Photo by Holger Link on Unsplash"
 
 ## "Come hai iniziato a correre?"
 
-Iniziamo dal _quando_, arriveremo poi al _come_. E al _perché_.
+_Facendomi offendere_. Ma andiamo con ordine.
 
 È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare, letteralmente, il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3).<!-- end -->
 
