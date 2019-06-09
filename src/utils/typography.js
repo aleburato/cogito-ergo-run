@@ -1,5 +1,5 @@
-import Typography from "typography";
 import Theme from "typography-theme-alton";
+import Typography from "typography";
 
 const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
@@ -7,9 +7,8 @@ const bodyFontFamily = "Merriweather";
 Theme.baseFontSize = "16px";
 Theme.baseLineHeight = 1.55;
 
-delete Theme.googleFonts;
-
 // using local typefaces imported in gatsby-browser.js
+delete Theme.googleFonts;
 
 // Theme.googleFonts = [
 //   {
