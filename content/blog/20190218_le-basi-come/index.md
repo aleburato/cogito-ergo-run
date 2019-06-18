@@ -27,15 +27,15 @@ Per fortuna scelgo _"oppure"_: _"oppure mi vesto e vado a passeggiare sulla spia
 
 ## Però vado
 
-La pioggia caduta pochi giorni prima aveva reso il manto sabbioso compatto e facile da percorrere. Mi metto una tuta da ginnastica di Decathlon e un paio di scarpe da Trekking vecchie di almeno 10 anni. Calzini di spugna e a completare il tutto un k-way grinzoso ma brutto.
+La pioggia caduta pochi giorni prima aveva reso il manto sabbioso compatto e facile da percorrere. Mi metto una tuta da ginnastica di [Decathlon](https://www.decathlon.it) e un paio di scarpe da Trekking vecchie di almeno 10 anni. Calzini di spugna e a completare il tutto un k-way grinzoso ma brutto.
 
-Decido di registrare quella prima camminata con Strava, un'app per cellulare che sapevo essere usata dagli "sportivi", tanto per avere un ricordo dell'ennesimo tentativo fallito di mettermi un po' in riga.
+Decido di registrare quella prima camminata con [Strava](https://www.strava.com), un'app per cellulare che sapevo essere usata dagli "sportivi", tanto per avere un ricordo dell'ennesimo tentativo fallito di mettermi un po' in riga.
 
-Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una camminata rilassante. Eppure dopo 2, 3, addirittura 4 km, sento il bisogno di andare un po' più avanti, di spingermi oltre. Si intravede, in lontananza, quel posto meraviglioso che è Torre Mozza, ma figurati se riuscirò ad arrivarci! Nah, Torre Mozza è fuori portata, piedi per terra, dai, ché fino a ieri eri parte integrante del divano. Non esageriamo.
+Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una camminata rilassante. Eppure dopo 2, 3, addirittura 4 km, sento il bisogno di andare un po' più avanti, di spingermi oltre. Si intravede, in lontananza, quel posto meraviglioso che è [Torre Mozza](<https://it.wikipedia.org/wiki/Torre_Mozza_(Piombino)>), ma figurati se riuscirò ad arrivarci! Nah, Torre Mozza è fuori portata, piedi per terra, dai, ché fino a ieri eri parte integrante del divano. Non esageriamo.
 
 ## Però magari
 
-...però magari faccio un'altra po' di strada. Arrivo fino a quello scoglio. Vabbè, scoglio raggiunto, già che ci sono posso arrivare al Club Nautico, è già una bella soddisfazione, dai (occhio, poi devi tornare indietro eh? --zitto). Bon, arrivato anche al Club. Bella roba. Pensa te, ho fatto 4km, in tutto saranno 8, mica male. Certo, Torre Mozza è davvero vicina, ora. Oddio, vicina, sembra vicina, ma magari poi mi prende un colpo e crollo, poi non ce la faccio a tornare, no dai. No.
+...però magari faccio un'altra po' di strada. Arrivo fino a quello scoglio. Vabbè, scoglio raggiunto, già che ci sono posso arrivare al Club Nautico, è già una bella soddisfazione, dai _(occhio, poi devi tornare indietro eh? --zitto)_. Bon, arrivato anche al Club. Bella roba. Pensa te, ho fatto 4km, andata e ritorno saranno 8, mica male. Certo, Torre Mozza è davvero vicina, ora. Oddio, vicina, sembra vicina, ma magari poi mi prende un colpo e crollo, poi non ce la faccio a tornare, no dai. No.
 
 ## Sì, dai. Sì.
 
@@ -43,24 +43,30 @@ Devo anche attraversare una zona in cui la spiaggia è stata completamente erosa
 
 ![Torre mozza!](torre_mozza.jpg)
 
-Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso. Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
+Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico (a cui da quella volta non ho più saputo rinunciare) e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso.
 
-![Il mio primo allenamento!](allenamento.jpg)
+Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
 
 Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**: una camminata, perché iniziare correndo sarebbe stato un gravissimo errore ed avrebbe certamente comportato l'abbandono del tutto dopo 5 minuti di affanno e sconforto.
 
 ## Ancora! Ancora!
 
-A casa, dopo una doverosa doccia, mi metto a riguardare la camminata sul GPS: _"Davvero ho fatto tutta quella strada? Oh, 12km sono roba eh? Torre Mozza! Pensa te. Quasi quasi la prossima settimana ci riprovo."_
+A casa, dopo una doverosa doccia, mi metto a riguardare la camminata registrata su Strava: _"Davvero ho fatto tutta quella strada? Oh, 12km sono roba eh? Torre Mozza! Pensa te. Quasi quasi la prossima settimana ci riprovo."_
+
+![Il mio primo allenamento!](allenamento.jpg)
 
 Vabbè, ora però PlayStation, eh?
 
 ## Però torno
 
-Dopo 4 giorni, ripeto lo stesso percorso. La volta dopo inverto la direzione e vado verso il porto di Scarlino. Bello, questa cosa mi prende. Un ciccione ansimante  vestito male che cammina spedito lungo la spiaggia, ascoltando la musica. E sorride.
+Dopo 4 giorni, ripeto lo stesso percorso. La volta dopo inverto la direzione e vado verso il porto di Scarlino. Bello, questa cosa mi prende, diventa un appuntamente regolare, a Follonica vedono spesso un ciccione ansimante vestito male che cammina spedito lungo la spiaggia, ascoltando la musica --e sorride, anche se gli fanno male le gambe, la schiena, tutto.
 
 ## Sì ma la corsa?
 
-Per circa 3 mesi, non esiste.
+Per circa 3 mesi, non esiste. Mi limito a marciare, sulla spiaggia, in pineta, sull'asfalto: ritmo serrato, e via. Quando vedo passare i _runner_ penso: "io non lo farò mai, non ho il fisico e comunque non ne vedo il fascino."
+
+Naturalmente mi sbaglio su tutto, tranne sul non avere (ancora) il fisico, infatti sono qui a scrivere: se avessi iniziato subito a correre mi sarei quasi di sicuro infortunato, perdendo ogni speranza e volontà di andare avanti.
+
+Ma di questo parleremo un'altra volta, ché ora devo allenarmi.
 
 [^1]: _Brodo:_ termine maremmano atto a indicare persona di scarsa intelligenza e/o valore. Come _bischero_, ma peggio.
