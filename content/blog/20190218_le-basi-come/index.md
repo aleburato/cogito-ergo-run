@@ -31,7 +31,7 @@ La pioggia caduta pochi giorni prima aveva reso il manto sabbioso compatto e fac
 
 Decido di registrare quella prima camminata con [Strava](https://www.strava.com), un'app per cellulare che sapevo essere usata dagli "sportivi", tanto per avere un ricordo dell'ennesimo tentativo fallito di mettermi un po' in riga.
 
-Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una camminata rilassante. Eppure dopo 2, 3, addirittura 4 km, sento il bisogno di andare un po' più avanti, di spingermi oltre. Si intravede, in lontananza, quel posto meraviglioso che è [Torre Mozza](<https://it.wikipedia.org/wiki/Torre_Mozza_(Piombino)>), ma figurati se riuscirò ad arrivarci! Nah, Torre Mozza è fuori portata, piedi per terra, dai, ché fino a ieri eri parte integrante del divano. Non esageriamo.
+Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una camminata rilassante. Eppure dopo 2, 3, addirittura 4 km, sento il bisogno di andare un po' più avanti, di spingermi oltre. Si intravede, in lontananza, quel posto meraviglioso che è [Torre Mozza](<https://it.wikipedia.org/wiki/Torre_Mozza_(Piombino)>), ma figurati se riuscirò ad arrivarci! Mammeglio [^2], Torre Mozza è fuori portata, piedi per terra, dai, ché fino a ieri eri parte integrante del divano. Non esageriamo.
 
 ## Però magari
 
@@ -70,3 +70,5 @@ Naturalmente mi sbaglio su tutto, tranne sul non avere (ancora) il fisico, infat
 Ma di questo parleremo un'altra volta, ché ora devo allenarmi.
 
 [^1]: _Brodo:_ termine maremmano atto a indicare persona di scarsa intelligenza e/o valore. Come _bischero_, ma peggio.
+
+[^2]: _Mammeglio:_ termine maremmano per "ma figurati, non ci pensare neanche".
