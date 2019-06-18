@@ -43,11 +43,11 @@ Devo anche attraversare una zona in cui la spiaggia è stata completamente erosa
 
 ![Torre mozza!](torre_mozza.jpg)
 
-Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico (a cui da quella volta non ho più saputo rinunciare) e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso.
+Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico (gesto a cui da quella volta non ho più saputo rinunciare) e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso.
 
 Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
 
-Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**: una camminata, perché iniziare correndo sarebbe stato un gravissimo errore ed avrebbe certamente comportato l'abbandono del tutto dopo 5 minuti di affanno e sconforto.
+Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allenamento_**.
 
 ## Ancora! Ancora!
 
