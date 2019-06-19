@@ -9,64 +9,64 @@ import React from "react";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
 
-class BlogIndex extends React.Component {
-  render() {
-    const { data } = this.props;
-    const siteTitle = data.site.siteMetadata.title;
-    const siteDescription = data.site.siteMetadata.description;
-    const posts = data.allMarkdownRemark.edges;
+export default function({ data, location }) {
+  const siteTitle = data.site.siteMetadata.title;
+  const siteDescription = data.site.siteMetadata.description;
+  const posts = data.allMarkdownRemark.edges;
 
-    return (
-      <Layout location={this.props.location} title={siteTitle} description={siteDescription}>
-        <SEO title={siteDescription} keywords={[`blog`, `running`, `corsa`, `correre`]} />
-        <div
-          style={{
-            marginBottom: rhythm(2.2)
-          }}
-        >
-          <Bio />
-        </div>
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug;
+  return (
+    <Layout location={location} title={siteTitle} description={siteDescription}>
+      <SEO title={siteDescription} keywords={[`blog`, `running`, `corsa`, `correre`]} />
+      <div
+        style={{
+          marginBottom: rhythm(2.2)
+        }}
+      >
+        <Bio />
+      </div>
+      {posts.map(
+        ({
+          node: {
+            frontmatter: { date, title, featuredImage, featuredImageDesc },
+            excerpt,
+            fields: { slug }
+          }
+        }) => {
+          const actualTitle = title || slug;
           return (
-            <div className="post-block" key={node.fields.slug}>
+            <div className="post-block" key={slug}>
               <h2
                 style={{
                   marginBottom: 0
                 }}
               >
-                <Link to={node.fields.slug}>{title}</Link>
+                <Link to={slug}>{actualTitle}</Link>
               </h2>
-              <p className="txt-small txt-muted">{node.frontmatter.date}</p>
-              <Link to={node.fields.slug}>
+              <p className="txt-small txt-muted">{date}</p>
+              <Link to={slug}>
                 <Img
                   className="post-featured-image"
-                  fluid={node.frontmatter.featuredImage.childImageSharp.fluid}
+                  fluid={featuredImage.childImageSharp.fluid}
                 />
               </Link>
               <p className="image-desc">
-                <em>{node.frontmatter.featuredImageDesc}</em>
+                <em>{featuredImageDesc}</em>
               </p>
-              <div
-                className="post-excerpt"
-                dangerouslySetInnerHTML={{ __html: node.excerpt }}
-              />
+              <div className="post-excerpt" dangerouslySetInnerHTML={{ __html: excerpt }} />
               <p>
                 <small>
                   <em>
-                    <Link to={node.fields.slug}>(leggi tutto)</Link>
+                    <Link to={slug}>(leggi tutto)</Link>
                   </em>
                 </small>
               </p>
             </div>
           );
-        })}
-      </Layout>
-    );
-  }
+        }
+      )}
+    </Layout>
+  );
 }
-
-export default BlogIndex;
 
 export const pageQuery = graphql`
   query {
