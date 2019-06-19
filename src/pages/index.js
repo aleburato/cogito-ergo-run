@@ -18,7 +18,7 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle} description={siteDescription}>
-        <SEO title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+        <SEO title="siteDescription" keywords={[`blog`, `running`, `corsa`, `correre`]} />
         <div
           style={{
             marginBottom: rhythm(2.2)
