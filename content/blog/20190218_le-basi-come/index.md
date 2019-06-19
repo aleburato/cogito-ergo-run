@@ -35,7 +35,7 @@ Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una c
 
 ## Però magari
 
-...però magari faccio un'altra po' di strada. Arrivo fino a quello scoglio. Vabbè, scoglio raggiunto, già che ci sono posso arrivare al Club Nautico, è già una bella soddisfazione, dai _(occhio, poi devi tornare indietro eh? --zitto)_. Bon, arrivato anche al Club. Bella roba. Pensa te, ho fatto 4km, andata e ritorno saranno 8, mica male. Certo, Torre Mozza è davvero vicina, ora. Oddio, vicina, sembra vicina, ma magari poi mi prende un colpo e crollo, poi non ce la faccio a tornare, no dai. No.
+...però magari faccio un'altra po' di strada. Arrivo fino a quello scoglio. Vabbè, scoglio raggiunto, già che ci sono posso arrivare al Club Nautico, è già una bella soddisfazione, dai _(occhio, poi devi tornare indietro eh? --zitto)_. Bon, arrivato anche al Club. Bella roba. Pensa te, ho fatto 4km, andata e ritorno diventeranno 8, mica male. Certo, Torre Mozza è davvero vicina, ora. Oddio, vicina, sembra vicina, ma magari poi mi prende un colpo e crollo, poi non ce la faccio a tornare, no dai. No.
 
 ## Sì, dai. Sì.
 
