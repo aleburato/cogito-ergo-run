@@ -1,15 +1,15 @@
 import "./index.css";
 
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 
 import Bio from "../components/bio";
-import Img from "gatsby-image";
 import Layout from "../components/layout";
 import React from "react";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
+import { BlogPostExcerpt } from "../components/blog-post-excerpt";
 
-export default function({ data, location }) {
+function SiteIndex({ data, location }) {
   const siteTitle = data.site.siteMetadata.title;
   const siteDescription = data.site.siteMetadata.description;
   const posts = data.allMarkdownRemark.edges;
@@ -24,49 +24,14 @@ export default function({ data, location }) {
       >
         <Bio />
       </div>
-      {posts.map(
-        ({
-          node: {
-            frontmatter: { date, title, featuredImage, featuredImageDesc },
-            excerpt,
-            fields: { slug }
-          }
-        }) => {
-          const actualTitle = title || slug;
-          return (
-            <div className="post-block" key={slug}>
-              <h2
-                style={{
-                  marginBottom: 0
-                }}
-              >
-                <Link to={slug}>{actualTitle}</Link>
-              </h2>
-              <p className="txt-small txt-muted">{date}</p>
-              <Link to={slug}>
-                <Img
-                  className="post-featured-image"
-                  fluid={featuredImage.childImageSharp.fluid}
-                />
-              </Link>
-              <p className="image-desc">
-                <em>{featuredImageDesc}</em>
-              </p>
-              <div className="post-excerpt" dangerouslySetInnerHTML={{ __html: excerpt }} />
-              <p>
-                <small>
-                  <em>
-                    <Link to={slug}>(leggi tutto)</Link>
-                  </em>
-                </small>
-              </p>
-            </div>
-          );
-        }
-      )}
+      {posts.map((edge, idx) => (
+        <BlogPostExcerpt key={idx} post={edge.node} />
+      ))}
     </Layout>
   );
 }
+
+export default SiteIndex;
 
 export const pageQuery = graphql`
   query {
