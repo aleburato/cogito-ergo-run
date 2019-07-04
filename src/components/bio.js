@@ -11,12 +11,12 @@ function Bio() {
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata;
+        const { authorName, social } = data.site.siteMetadata;
         return (
           <div className="author-bio">
             <Image
               fixed={data.avatar.childImageSharp.fixed}
-              alt={author}
+              alt={authorName}
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
@@ -30,8 +30,8 @@ function Bio() {
             />
             <div>
               <p>
-                Scritto da <strong>{author}</strong>: run-nerd, centauro a strappi, marito,
-                babbo. Sfortunato nel gioco.
+                <strong>{authorName}</strong>. Run-nerd, centauro a strappi, marito, babbo.
+                Sfortunato nel gioco.
               </p>
               <p>
                 Social? <a href={`https://twitter.com/${social.twitter}`}>twitter</a>,{" "}
@@ -60,7 +60,8 @@ const bioQuery = graphql`
     }
     site {
       siteMetadata {
-        author
+        authorName
+        authorSurname
         social {
           twitter
           facebook

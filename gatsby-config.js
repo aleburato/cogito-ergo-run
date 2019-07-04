@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Cogito, ergo run.`,
-    author: `Alessandro Burato`,
+    authorName: `Alessandro`,
+    authorSurname: `Burato`,
     description: `Un blog sull’inevitabilità del correre`,
     siteUrl: `https://cogito.ergo.run/`,
     social: {

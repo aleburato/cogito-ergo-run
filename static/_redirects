@@ -1,2 +1,4 @@
 # Redirect domain aliases to primary domain
 https://ergo.run/* https://cogito.ergo.run/:splat 301!
+
+# https://cogito.ergo.run/20190218_le-basi-come/
