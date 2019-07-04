@@ -9,7 +9,7 @@ featuredImageDesc: "Photo by Holger Link on Unsplash"
 
 _Facendomi offendere_. Ma andiamo con ordine.
 
-È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare, letteralmente, il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3).<!-- end -->
+È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare (letteralmente), il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3).<!-- end -->
 
 Peso **102kg x 172cm**, ho alle spalle un numero imprecisato di tessere della palestra appena scalfite e diete fallite con gli interessi.
 
