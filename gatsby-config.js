@@ -78,6 +78,7 @@ module.exports = {
         icon: `content/assets/running.svg`
       }
     },
+    `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
@@ -86,6 +87,8 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`
       }
     },
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify`,
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-netlify-headers`
   ]
 };
