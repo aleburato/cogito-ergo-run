@@ -87,6 +87,7 @@ module.exports = {
       }
     },
     `gatsby-plugin-netlify`,
-    `gatsby-plugin-netlify-cache`
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-netlify-headers`
   ]
 };
