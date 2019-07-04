@@ -2,7 +2,7 @@
   "name": "cogito-ergo-run",
   "private": true,
   "description": "A personal blog on running, made with gatsbyjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Alessandro Burato <alessandro.burato@outlook.com>",
   "dependencies": {
     "gatsby": "^2.13.3",
