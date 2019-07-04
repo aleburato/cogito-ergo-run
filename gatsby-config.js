@@ -78,6 +78,7 @@ module.exports = {
         icon: `content/assets/running.svg`
       }
     },
+    `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
