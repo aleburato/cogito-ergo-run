@@ -63,11 +63,11 @@ Dopo 4 giorni, ripeto lo stesso percorso. La volta dopo inverto la direzione e v
 
 ## Sì ma la corsa?
 
-Per circa 3 mesi, non esiste. Mi limito a marciare, sulla spiaggia, in pineta, sull'asfalto: ritmo serrato, e via. Quando vedo passare i _runner_ penso: "io non lo farò mai, non ho il fisico e comunque non ne vedo il fascino."
+Per circa 3 mesi, non esiste. Mi limito a marciare, sulla spiaggia, in pineta, sull'asfalto: ritmo serrato, e via. Quando vedo passare i _runner_ penso: _"io non lo farò mai, non ho il fisico e comunque non ne vedo il fascino."_
 
 Naturalmente mi sbaglio su tutto, tranne sul non avere (ancora) il fisico, infatti sono qui a scrivere: se avessi iniziato subito a correre mi sarei quasi di sicuro infortunato, perdendo ogni speranza e volontà di andare avanti.
 
 Ma di questo parleremo un'altra volta, ché ora devo allenarmi.
 
 [^1]: _Brodo:_ termine maremmano atto a indicare persona di scarsa intelligenza e/o valore. Come _bischero_, ma peggio.
-[^2]: _Mammeglio:_ termine maremmano per "ma figurati, non ci pensare neanche".
+[^2]: _Mammeglio:_ termine maremmano per _"ma figurati, non ci pensare neanche"_.
