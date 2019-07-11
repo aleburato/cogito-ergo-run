@@ -1,3 +1,9 @@
+# Remove effing fbclid
+/ fbclid=:fbclid / 301
+/ id=:id fbclid=:fbclid / 301
+/* fbclid=:fbclid /:splat 301!
+/* id=:id fbclid=:fbclid /:splat 301!
+
 # Redirect domain aliases to primary domain
 https://ergo.run/* https://cogito.ergo.run/:splat 301!
 
