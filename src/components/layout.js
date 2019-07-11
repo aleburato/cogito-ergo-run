@@ -16,7 +16,11 @@ function Layout({ location, title, description, children }) {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
       }}
     >
-      <Header isMain={location.pathname === rootPath} title={title} description={description} />
+      <Header
+        isMain={location.pathname === rootPath}
+        title={title}
+        description={description}
+      />
       <main>{children}</main>
       <footer>
         <p>...</p>

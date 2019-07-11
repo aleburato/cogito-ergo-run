@@ -20,7 +20,10 @@ export function BlogPostExcerpt({ post }) {
       </h2>
       <p className="txt-small txt-muted">{date}</p>
       <Link to={slug}>
-        <Img className="post-featured-image" fluid={featuredImage.childImageSharp.fluid} />
+        <Img
+          className="post-featured-image"
+          fluid={featuredImage.childImageSharp.fluid}
+        />
       </Link>
       <p className="image-desc">
         <em>{featuredImageDesc}</em>

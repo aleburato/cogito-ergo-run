@@ -30,8 +30,8 @@ function Bio() {
             />
             <div>
               <p>
-                <strong>{authorName}</strong>. Run-nerd, centauro a strappi, marito, babbo.
-                Sfortunato nel gioco.
+                <strong>{authorName}</strong>. Run-nerd, centauro a strappi, marito,
+                babbo. Sfortunato nel gioco.
               </p>
               <p>
                 Social? <a href={`https://twitter.com/${social.twitter}`}>twitter</a>,{" "}
