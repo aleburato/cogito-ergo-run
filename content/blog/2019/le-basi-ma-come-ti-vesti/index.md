@@ -28,7 +28,7 @@ Alla fine ho concluso che la corsa è uno sport benedetto dalla semplicità. Com
 - **un paio di occhiali sportivi possibilmente fotocromatici**: proteggono dal sole, che soprattutto al mattino e al tramonto è fastidiosissimo e dai varii detriti che il vento si diletterà a soffiarvi negli occhi nei momenti meno opportuni.
 - un **berretto tecnico** per proteggere la testa dal caldo e dal freddo.
 
-La regola generale è: _nel dubbio, vestiti leggero_. Meglio avere freddo che patire il caldo, tieni conto che durante una corsa fatta bene la temperatura del corpo si alza di 8-10 gradi. Quindi: prima di iniziare a correre dovresti sentire un po' di freddo, anche ai limiti del fastidio, senza arrivare a battere i denti, ovviamente. Se esci fuori e stai bene da subito, probabilmente scoppierai dal caldo.
+La regola generale è: _nel dubbio, vestiti leggero_. Meglio avere freddo che patire il caldo, tieni conto che durante una corsa fatta bene la temperatura del corpo si alza di 8-10 gradi. Quindi: prima di iniziare a correre dovresti sentire un po' di freddo, anche ai limiti del fastidio, senza arrivare a battere i denti, ovviamente. Se esci fuori e stai bene da subito, probabilmente scoppierai dal caldo..
 
 [^1]: è una sciocchezza colossale.
 [^2]: vedi sopra.
