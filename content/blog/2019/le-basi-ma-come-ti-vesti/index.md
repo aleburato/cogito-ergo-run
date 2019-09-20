@@ -9,7 +9,7 @@ Ovvero, dell'equipaggiamento ed altre importantissime sciocchezze.
 
 Le prime volte mi sono affidato ai ricordi --vaghi-- delle lezioni di ginnastica alle medie. Sicché, **tuta di cotone pesante** XXXL di Decathlon (ché l' _acetato_ è il male, fa sudare, poi puzzi di bestia sintetica), **scarpe "da ginnastica"** (in realtà un paio di vecchissime Merrell usate per chissà quale trekking improvvisato tanti anni prima e ormai derubricate a "scarpacce da lavoro"), **maglietta di cotone**, **calzini di spugna** ruvidi come la carta vetrata e un vetusto **k-way** a stroncare sul nascere ogni speranza di traspirazione --a volte avessi freddo.
 
-Perché si sa: _"se non sudi non hai veramente fatto sport"_ [^1] e: _"più sudi, più dimagrisci"_ [^2].
+Perché si sa: _"se non sudi non hai veramente fatto sport"_[^1] e: _"più sudi, più dimagrisci"_[^2].
 
 Ci ho marciato per mesi conciato così, una specie di Omino Michelin tarantolato. Poi ho iniziato a correre e --da bravo nerd-- mi sono fatto contagiare dalla cosiddetta G.A.S (_Gear Acquisition Syndrome_, vale a dire _"Sindrome da Acquisto [compulsivo] di Attrezzatura"_).
 
