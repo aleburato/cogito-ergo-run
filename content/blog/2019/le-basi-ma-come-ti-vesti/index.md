@@ -21,9 +21,9 @@ Alla fine ho concluso che la corsa è uno sport benedetto dalla semplicità. Com
 - se hai il pisellino, a meno che i leggins non abbiano rinforzi appositi, non scordare le **mutande**: far ballonzolare tutto l'abbecedario non è cosa, per motivi che non sto a spiegare perché sù, dai, ci si arriva.
 - se hai il seno, il **reggiseno sportivo** è obbligatorio, ché lo spettacolo è decisamente più gradevole ma persistono i motivi di cui sopra.
 - per la parte superiore del corpo, dipende dalle condizioni climatiche. Col bel tempo basta una **maglia tecnica** traspirante, sotto la quale potrai aggiungere, nella mezza stagione, uno **strato di base** (ossia una maglia tecnica a compressione, l'equivalente dei leggins ma per il busto). Con il freddo vero e proprio si passa a strato di base + **felpa tecnica** con eventuale **antivento** (un k-way il più leggero possibile) per evitare orrende "righiacciature".
-- **un paio di occhiali sportivi possibilmente fotocromatici**: proteggono dal sole, che soprattutto al mattino e al tramonto è fastidiosissimo e dai varii detriti che il vento si diletterà a soffiarvi negli occhi nei momenti meno opportuni.
-- un **berretto tecnico** per proteggere la testa dal caldo e dal freddo.
-- ultimo ma non meno importante, un piccolo **marsupio/fascia** dove riporre cellulare e chiavi. Non metterli nell'eventuale tasca dei pantaloni e/o del k-way perché _qualsiasi cosa che sbatacchia dopo 5 minuti diventa insopportabile._
+- **un paio di occhiali sportivi possibilmente fotocromatici**: proteggono dal sole, che soprattutto al mattino e al tramonto è fastidiosissimo e dai varii detriti che il vento si diletterà a soffiarti negli occhi nei momenti meno opportuni.
+- un **berretto tecnico** per proteggerti la testa dal caldo e dal freddo.
+- ultimo ma non meno importante, un piccolo **marsupio/fascia** dove riporrai cellulare e chiavi. Non metterli nell'eventuale tasca dei pantaloni e/o del k-way perché _qualsiasi cosa che sbatacchia dopo 5 minuti diventa insopportabile._
 
 ## Ma quanto ti vesti?
 
