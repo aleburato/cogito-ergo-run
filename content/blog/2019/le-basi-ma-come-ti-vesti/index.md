@@ -39,7 +39,7 @@ Consiglio pratico: entra in un Decathlon qualsiasi e prendi tutto ciò che ti se
 
 Fino a che non riesci a correre per almeno **40 minuti di fila**, non ha molto senso misurare le prestazioni velocistiche e/o monitorare la frequenza cardiaca: andrai molto piano, puoi stare tranquillo e fidarti del tuo corpo.
 
-Per quanto riguarda la **musica**, fai te: a me distrae, preferisco abbandonarmi al suono dei miei passi e al ritmo del mio respiro --ma agli inizi anche io la ascoltavo. Vedi tu, non è così importante, magari inizia con la musica e appena puoi prova a farne a meno. _Ridurre all'essenziale,_ giusto?
+Per quanto riguarda la **musica**, fai te: a me distrae, preferisco abbandonarmi al suono dei miei passi e al ritmo della respirazione --ma agli inizi anche io la ascoltavo. Non è così importante, magari inizia con la musica e appena puoi prova a farne a meno. _Ridurre all'essenziale,_ giusto?
 
 P.S.: se mai arriverai a correre una gara competitiva in cui si assegna un titolo, scoprirai che la musica è [vietata dal regolamento](https://www.correre.it/auricolari-cuffie-per-musica-in-gara/) perché considerata _doping_. _Sicché..._
 
