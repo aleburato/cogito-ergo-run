@@ -27,7 +27,7 @@ Alla fine ho concluso che la corsa è uno sport benedetto dalla semplicità. Com
 
 ## Ma quanto ti vesti?
 
-La regola generale è: _nel dubbio, vestiti leggero_. Meglio avere freddo che patire il caldo, tieni conto che durante una corsa fatta bene la temperatura del corpo si alza di 8-10 gradi. Quindi: prima di iniziare a correre dovresti sentire un po' di freddo, anche ai limiti del fastidio, senza arrivare a battere i denti, ovviamente. Se esci fuori e stai bene da subito, probabilmente scoppierai dal caldo.
+La regola generale è: _nel dubbio, vestiti leggero_. Meglio avere freddo che patire il caldo, tieni conto che durante una corsa fatta bene la temperatura _percepita_ si alza di 8-10 gradi. Quindi: prima di iniziare a correre dovresti sentire un po' di freddo, anche ai limiti del fastidio, senza arrivare a battere i denti, ovviamente. Se esci fuori e stai bene da subito, probabilmente scoppierai dal caldo.
 
 ## Ma dove ti vesti?
 
