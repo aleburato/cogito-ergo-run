@@ -7,7 +7,7 @@ featuredImageDesc: "Photo by Andre Mohamed on Unsplash"
 
 ## Prima si cammina
 
-Come accennato nel [post precedente](/2019/le-basi-come), per i primi 3 mesi non ci penso neanche, a correre. Cammino (direi "marcio" se la marcia non fosse una [disciplina seria](<https://it.wikipedia.org/wiki/Marcia_(atletica_leggera)>)), a un ritmo che --per capirsi-- è quello di quando stai perdendo il treno e ti affretti verso la stazione, ma per non perdere anche la dignità non permetti ai tuoi piedi di staccarsi da terra contemporaneamente [^1]. Di solito queste camminate si svolgono sulla spiaggia, più raramente sull'asfalto.<!-- end -->
+Come accennato nel [post precedente](/2019/le-basi-come), per i primi 3 mesi non ci penso neanche, a correre. Cammino (direi "marcio" se la marcia non fosse una [disciplina seria](<https://it.wikipedia.org/wiki/Marcia_(atletica_leggera)>)), a un ritmo che --per capirsi-- è quello di quando stai perdendo il treno e ti affretti verso la stazione, ma per non perdere anche la dignità non permetti ai tuoi piedi di staccarsi da terra contemporaneamente[^1]. Di solito queste camminate si svolgono sulla spiaggia, più raramente sull'asfalto.<!-- end -->
 
 Inizialmente registro ogni camminata direttamente con [Strava](https://www.strava.com), utilizzando il GPS del cellulare. Torno spesso al primo amore, Torre Mozza, passando sia dalla strada che dalla spiaggia; fare sempre gli stessi percorsi mi permette di confrontare le mie prestazioni al passare del tempo, di _misurare_ la mia evoluzione: piano piano vedo i tempi migliorare, i muscoli iniziano a rispondere meglio e a recuperare più in fretta. Scopro dolori di cui non sospettavo l'esistenza, che però passano in fretta lasciandomi stanco, indolenzito e soddisfatto.
 
