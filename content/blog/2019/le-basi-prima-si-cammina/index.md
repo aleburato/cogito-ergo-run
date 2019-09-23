@@ -15,7 +15,7 @@ Inizialmente registro ogni camminata direttamente con [Strava](https://www.strav
 
 So di essere una persona poco costante, per questo fin da subito mi do una semplice regola --**"non un metro di meno, non un minuto fermo"**: prima di uscire a camminare decido quanti km voglio fare quel giorno **e li faccio**, sempre, senza eccezioni, senza fermarmi. Anche se inizia a piovere, anche se incontro degli amici, anche se mi fa male qualcosa; se mancano 100 metri alla distanza stabilita, ne percorro 200, _mai_ 99.
 
-![Cammina](justin-little-hxUnNtWIjso-unsplash.jpg)
+![Cammina, cammina!](justin-little-hxUnNtWIjso-unsplash.jpg)
 
 Una semplicissima regola, _che ad oggi non ho mai infranto_, spazza via anni di circoli viziosi e dà vita a un **circolo virtuoso**: _"se l'ultima volta ce l'ho fatta, ce la farò anche oggi. Se mollo, mollerò anche domani"_.
 
@@ -31,7 +31,7 @@ Ci sono anche diverse app dedicate al C25K, che ti permettono di farti guidare d
 
 ## pochi secondi di corsa sono un'eternità
 
-![Tempo](icons8-team-dhZtNlvNE8M-unsplash.jpg)
+![Il tempo scorre molto lento quando fatichi](icons8-team-dhZtNlvNE8M-unsplash.jpg)
 
 ...se non sei abituato. Ti manca proprio il fiato, respiri male, il cuore ti batte fortissimo. Correre in questa fase non è un piacere, è una tortura: la seconda settimana ad esempio prevede 90 secondi alternati a 60 di camminata. Inferno-paradiso-inferno-paradiso etc.
 
@@ -43,7 +43,7 @@ La mia voglia di correre è per fortuna abbastanza potente da far sì che mi riv
 
 Finalmente arrivo a correre mezz'ora di fila, per quanto a un passo decisamente scarso (quasi 8 min per fare 1km). È una conquista incredibile.
 
-![La prima mezz'ora!](la_prima_mezza_ora.png)
+![La prima mezz'ora consecutiva di corsa!](la_prima_mezza_ora.png)
 
 Da lì in poi non ho più smesso di correre, salvo cause di forza maggiore come infortuni, operazioni etc. Mi sono comprato un orologio da corsa decente, scarpe e abbigliamento appropriati e ho iniziato ad allenarmi basandomi sul battito cardiaco.
 

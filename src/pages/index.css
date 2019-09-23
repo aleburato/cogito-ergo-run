@@ -10,13 +10,14 @@
   color: #888;
 }
 
-p > a.gatsby-resp-image-link + em,
-p.image-desc {
+.image-desc,
+.gatsby-resp-image-figcaption {
   font-size: 0.7em;
   color: #888;
   margin-top: 0.5em;
   display: block;
   text-align: right;
+  font-style: italic;
 }
 
 .footnotes {

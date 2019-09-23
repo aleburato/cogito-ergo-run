@@ -33,7 +33,7 @@ Succede una cosa strana: marcio a un ritmo abbastanza sostenuto, non certo una c
 
 Devo anche attraversare una zona in cui la spiaggia è stata completamente erosa, aggrappandomi a un muretto e camminando in equilibrio precario sugli scogli, curioso granchio di circa un quintale. Ma arrivo a Torre Mozza. Stanco, ma non sfinito.
 
-![Torre mozza!](torre_mozza.jpg)
+![La suggestiva spiaggia di Torre mozza](torre_mozza.jpg)
 
 Tocco la torre in un gesto a metà tra lo scaramantico e il pionieristico (gesto a cui da quella volta non ho più saputo rinunciare) e torno subito indietro: ho paura che se mi fermo toccherà chiamare l'elisoccorso. Saranno le endorfine, ma faccio i 6km del ritorno a cuor leggero, sempre cercando la marcia serrata, non lasciando mai che il tutto diventi una semplice "passeggiata".
 
@@ -43,7 +43,7 @@ Così, tra l lusco e il brusco, completo il mio primo vero e proprio **_allename
 
 A casa, dopo una doverosa doccia, mi metto a riguardare la camminata registrata su Strava: _"Davvero ho fatto tutta quella strada? Oh, 12km sono roba eh? Torre Mozza! Pensa te. Quasi quasi la prossima settimana ci riprovo."_
 
-![Il mio primo allenamento!](allenamento.jpg)
+![Il primo allenamento registrato su Strava](allenamento.jpg)
 
 Vabbè, ora però PlayStation, eh?
 

@@ -32,9 +32,7 @@ class BlogPostTemplate extends React.Component {
           className="post-featured-image"
           fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
         />
-        <p className="image-desc">
-          <em>{post.frontmatter.featuredImageDesc}</em>
-        </p>
+        <p className="image-desc">{post.frontmatter.featuredImageDesc}</p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>...</p>
 
