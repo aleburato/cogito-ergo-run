@@ -28,12 +28,19 @@ class BlogPostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
-        <Img
-          className="post-featured-image"
-          fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
+        <div className="post-featured-image-wrapper">
+          <Img
+            className="post-featured-image"
+            fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
+          />
+          <span className="post-featured-image-desc">
+            {post.frontmatter.featuredImageDesc}
+          </span>
+        </div>
+        <div
+          className="post-content"
+          dangerouslySetInnerHTML={{ __html: post.html }}
         />
-        <p className="image-desc">{post.frontmatter.featuredImageDesc}</p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>...</p>
 
         {(previous || next) && (

@@ -1,5 +1,5 @@
 body {
-  background: #e7e6e0;
+  background: #edece8;
   color: #231516;
 }
 
@@ -34,7 +34,11 @@ h6,
   font-size: 0.8em;
 }
 
-.image-desc,
+.post-featured-image-wrapper {
+  margin-bottom: 1.8rem;
+}
+
+.post-featured-image-desc,
 .gatsby-resp-image-figcaption {
   font-size: 0.7em;
   color: #8e8d8a;
