@@ -12,6 +12,7 @@ export function BlogPostExcerpt({ post }) {
   return (
     <div className="post-block" key={slug}>
       <h2
+        className="blog-post-title"
         style={{
           marginBottom: 0
         }}
@@ -28,7 +29,10 @@ export function BlogPostExcerpt({ post }) {
       <p className="image-desc">
         <em>{featuredImageDesc}</em>
       </p>
-      <div className="post-excerpt" dangerouslySetInnerHTML={{ __html: excerpt }} />
+      <div
+        className="post-excerpt"
+        dangerouslySetInnerHTML={{ __html: excerpt }}
+      />
       <p>
         <small>
           <em>

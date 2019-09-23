@@ -23,16 +23,12 @@ delete Theme.googleFonts;
 
 Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
-Theme.bodyColor = "#131516";
 Theme.headerWeight = "normal";
 Theme.scaleRatio = 2.5;
 
 Theme.overrideThemeStyles = ({ rhythm }, options) => ({
   "h1,h2,h3,h4,h5,h6": {
     textTransform: "uppercase"
-  },
-  a: {
-    color: "#107896"
   }
 });
 
