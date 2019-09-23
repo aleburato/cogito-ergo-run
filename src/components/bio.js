@@ -34,7 +34,7 @@ function Bio() {
                 babbo. Sfortunato nel gioco.
               </p>
               <p>
-                Social? <a href={`https://twitter.com/${social.twitter}`}>twitter</a>,{" "}
+                <a href={`https://twitter.com/${social.twitter}`}>twitter</a>,{" "}
                 <a href={`https://facebook.com/${social.facebook}`}>facebook</a> e{" "}
                 <a href={`https://www.instagram.com/${social.instagram}`}>
                   #hofattoanchefotobuone
