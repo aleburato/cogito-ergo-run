@@ -1,6 +1,7 @@
-import { Link } from "gatsby";
-import Img from "gatsby-image";
 import React from "react";
+import { Link } from "gatsby";
+
+import FeaturedImage from "./featured-image";
 
 export function BlogPostExcerpt({ post }) {
   const {
@@ -11,24 +12,13 @@ export function BlogPostExcerpt({ post }) {
   const actualTitle = title || slug;
   return (
     <div className="post-block" key={slug}>
-      <h2
-        className="blog-post-title"
-        style={{
-          marginBottom: 0
-        }}
-      >
+      <h2 className="blog-post-title">
         <Link to={slug}>{actualTitle}</Link>
       </h2>
-      <p className="txt-small txt-muted">{date}</p>
+      <p className="blog-post-date txt-small txt-muted">{date}</p>
       <Link to={slug}>
-        <Img
-          className="post-featured-image"
-          fluid={featuredImage.childImageSharp.fluid}
-        />
+        <FeaturedImage image={featuredImage} imageCaption={featuredImageDesc} />
       </Link>
-      <p className="image-desc">
-        <em>{featuredImageDesc}</em>
-      </p>
       <div
         className="post-excerpt"
         dangerouslySetInnerHTML={{ __html: excerpt }}

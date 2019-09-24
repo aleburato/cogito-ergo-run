@@ -1,10 +1,10 @@
+import React from "react";
 import { Link, graphql } from "gatsby";
-import { rhythm, scale } from "../utils/typography";
+import { rhythm } from "../utils/typography";
 
 import Bio from "../components/bio";
-import Img from "gatsby-image";
+import FeaturedImage from "../components/featured-image";
 import Layout from "../components/layout";
-import React from "react";
 import SEO from "../components/seo";
 
 class BlogPostTemplate extends React.Component {
@@ -17,26 +17,13 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1 className="blog-post-title">{post.frontmatter.title}</h1>
-        <p
-          className="txt-muted"
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1)
-          }}
-        >
+        <p className="blog-post-date txt-small txt-muted">
           {post.frontmatter.date}
         </p>
-        <div className="post-featured-image-wrapper">
-          <Img
-            className="post-featured-image"
-            fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
-          />
-          <span className="post-featured-image-desc">
-            {post.frontmatter.featuredImageDesc}
-          </span>
-        </div>
+        <FeaturedImage
+          image={post.frontmatter.featuredImage}
+          imageCaption={post.frontmatter.featuredImageDesc}
+        />
         <div
           className="post-content"
           dangerouslySetInnerHTML={{ __html: post.html }}
