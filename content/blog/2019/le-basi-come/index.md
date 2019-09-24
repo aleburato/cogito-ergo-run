@@ -5,7 +5,9 @@ featuredImage: "./holger-link-724884-unsplash.jpg"
 featuredImageDesc: "Photo by Holger Link on Unsplash"
 ---
 
-"Come hai iniziato a correre?" Facendomi offendere. Siediti, che ti racconto.<!-- end -->
+"Come hai iniziato a correre?"
+
+Facendomi offendere. Siediti, che ti racconto.<!-- end -->
 
 È la vigilia di Natale del 2016, una giornata splendida, piena di sole. Abito in riva al mare (letteralmente), il tempo e il luogo perfetti per uscire. Infatti sono saldamente piazzato sul divano, davanti alla [PS3](https://it.wikipedia.org/wiki/PlayStation_3). Peso **102kg x 172cm**, ho alle spalle un numero imprecisato di tessere della palestra appena scalfite e diete fallite con gli interessi.
 
