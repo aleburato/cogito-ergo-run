@@ -4,11 +4,11 @@ body {
 }
 
 a {
-  color: #e85a4f;
+  color: #ac926c;
 }
 
 a:hover {
-  color: #e98074;
+  color: #e85a4f;
 }
 
 h1,
@@ -17,9 +17,8 @@ h3,
 h4,
 h5,
 h6,
-.blog-post-title a,
-.blog-post-title a:hover {
-  color: #ac926c;
+.blog-post-title a {
+  color: #e85a4f;
 }
 
 .txt-muted {
