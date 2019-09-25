@@ -11,14 +11,7 @@ function Header({ isMain, title, description }) {
         marginBottom: rhythm(1.5)
       }}
     >
-      <h1
-        style={{
-          ...scale(1.2),
-          marginTop: 0,
-          marginBottom: 0,
-          marginLeft: "-2px"
-        }}
-      >
+      <h1 className="blog-title">
         <Link to={`/`}>{title}</Link>
         <img
           alt="The site logo"

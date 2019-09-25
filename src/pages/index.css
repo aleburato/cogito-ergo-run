@@ -3,10 +3,15 @@ body {
   color: #231516;
 }
 
-a {
-  color: #ac926c;
+.blog-title {
+  font-size: 3rem;
+  line-height: 3.875rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: -2px;
 }
 
+a,
 a:hover {
   color: #e85a4f;
 }
@@ -18,11 +23,11 @@ h4,
 h5,
 h6,
 .blog-post-title a {
-  color: #e85a4f;
+  color: #231516;
 }
 
 .txt-muted {
-  color: #8e8d8a;
+  color: #8e8d8a; /*#ac926c;*/
 }
 
 .post-block + .post-block {
