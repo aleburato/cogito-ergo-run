@@ -2,7 +2,7 @@ import { Link } from "gatsby";
 import React from "react";
 
 import logo from "../../content/assets/running.svg";
-import { rhythm, scale } from "../utils/typography";
+import { rhythm } from "../utils/typography";
 
 function Header({ isMain, title, description }) {
   const header = isMain ? (
