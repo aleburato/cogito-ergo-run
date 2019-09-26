@@ -1,3 +1,7 @@
+noscript#gatsby-noscript {
+  display: none;
+}
+
 body {
   background: #edece8;
   color: #231516;
