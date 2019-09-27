@@ -1,4 +1,4 @@
-import "./index.css";
+import "./index.scss";
 
 import { graphql } from "gatsby";
 
@@ -16,7 +16,10 @@ function SiteIndex({ data, location }) {
 
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
-      <SEO title={siteDescription} keywords={[`blog`, `running`, `corsa`, `correre`]} />
+      <SEO
+        title={siteDescription}
+        keywords={[`blog`, `running`, `corsa`, `correre`]}
+      />
       <div
         style={{
           marginBottom: rhythm(2.2)

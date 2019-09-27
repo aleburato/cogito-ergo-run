@@ -1,10 +1,12 @@
+@import "../theme.scss";
+
 noscript#gatsby-noscript {
   display: none;
 }
 
 body {
-  background: #edece8;
-  color: #231516;
+  background: $themeBackground;
+  color: $themeText;
 }
 
 .blog-title {
@@ -17,7 +19,7 @@ body {
 
 a,
 a:hover {
-  color: #e85a4f;
+  color: $themeAccentPrimary;
 }
 
 h1,
@@ -27,11 +29,11 @@ h4,
 h5,
 h6,
 .blog-post-title a {
-  color: #231516;
+  color: $themeText;
 }
 
 .txt-muted {
-  color: #8e8d8a; /*#ac926c;*/
+  color: $themeTextMuted; /*#ac926c;*/
 }
 
 .post-block + .post-block {
@@ -49,7 +51,7 @@ h6,
 .post-featured-image-desc,
 .gatsby-resp-image-figcaption {
   font-size: 0.7em;
-  color: #8e8d8a;
+  color: $themeTextMuted;
   margin-top: 0.5em;
   display: block;
   text-align: right;
