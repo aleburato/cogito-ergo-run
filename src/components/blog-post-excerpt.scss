@@ -1,0 +1,8 @@
+@import "../theme";
+
+a .blog-post-excerpt {
+  &,
+  &:hover {
+    color: $themeText;
+  }
+}

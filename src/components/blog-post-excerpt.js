@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 import FeaturedImage from "./featured-image";
 
-import "./blog-post-excerpt.css";
+import "./blog-post-excerpt.scss";
 
 export function BlogPostExcerpt({ post }) {
   const {

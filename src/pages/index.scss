@@ -1,4 +1,4 @@
-@import "../theme.scss";
+@import "../theme";
 
 noscript#gatsby-noscript {
   display: none;
@@ -11,15 +11,15 @@ body {
 
 .blog-title {
   font-size: 3rem;
-  line-height: 3.875rem;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   margin-left: -2px;
 }
 
-a,
-a:hover {
+a {
   color: $themeAccentPrimary;
+  &:hover {
+    color: $themeAccentSecondary;
+  }
 }
 
 h1,

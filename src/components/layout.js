@@ -1,21 +1,13 @@
-// @ts-nocheck
-
 import Header from "./header";
 import React from "react";
-import { rhythm } from "../utils/typography";
+
+import "./layout.scss";
 
 function Layout({ location, title, description, children }) {
   const rootPath = `${__PATH_PREFIX__}/`;
 
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(28),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
-      }}
-    >
+    <div className="layout-container">
       <Header
         isMain={location.pathname === rootPath}
         title={title}

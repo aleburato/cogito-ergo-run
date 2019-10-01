@@ -4,6 +4,8 @@ import React from "react";
 import logo from "../../content/assets/running.svg";
 import { rhythm } from "../utils/typography";
 
+import "./header.scss";
+
 function Header({ isMain, title, description }) {
   const header = isMain ? (
     <div

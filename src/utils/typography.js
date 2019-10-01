@@ -21,8 +21,8 @@ delete Theme.googleFonts;
 //   }
 // ];
 
-Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
-Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
+Theme.headerFontFamily = [headerFontFamily, "Helvetica", "sans-serif"];
+Theme.bodyFontFamily = [bodyFontFamily, "Georgia", "serif"];
 Theme.headerWeight = "normal";
 Theme.scaleRatio = 2.5;
 

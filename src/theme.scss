@@ -1,4 +1,9 @@
-$themeBackground: #edece8;
-$themeText: #231516;
-$themeTextMuted: #8e8d8a;
-$themeAccentPrimary: #e85a4f;
+$themeBackground: hsl(10, 12%, 96%);
+$themeBackgroundHighlight: hsl(10, 40%, 90%);
+$themeBackgroundMuted: hsl(10, 20%, 94%);
+$themeText: hsl(10, 20%, 20%);
+$themeTextMuted: hsl(10, 20%, 50%);
+$themeAccentPrimary: hsl(10, 80%, 50%);
+$themeAccentSecondary: hsl(10, 60%, 50%);
+
+$themeRhythm: 1.55rem;
