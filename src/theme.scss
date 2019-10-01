@@ -7,3 +7,11 @@ $themeAccentPrimary: hsl(10, 80%, 50%);
 $themeAccentSecondary: hsl(10, 60%, 50%);
 
 $themeRhythm: 1.55rem;
+
+.txt-muted {
+  color: $themeTextMuted; /*#ac926c;*/
+}
+
+.txt-small {
+  font-size: 0.8em;
+}

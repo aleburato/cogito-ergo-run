@@ -17,9 +17,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <h1 className="blog-post-title">{post.frontmatter.title}</h1>
-        <p className="blog-post-date txt-small txt-muted">
-          {post.frontmatter.date}
-        </p>
+        <p className="blog-post-date">{post.frontmatter.date}</p>
         <FeaturedImage
           image={post.frontmatter.featuredImage}
           imageCaption={post.frontmatter.featuredImageDesc}

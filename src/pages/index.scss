@@ -26,26 +26,9 @@ h6,
   color: $themeText;
 }
 
-.txt-muted {
-  color: $themeTextMuted; /*#ac926c;*/
-}
-
-.post-block + .post-block {
-  margin-top: 2.5em;
-}
-
-.txt-small {
-  font-size: 0.8em;
-}
-
-.post-featured-image-wrapper {
-  margin-bottom: 1.8rem;
-}
-
-.post-featured-image-desc,
 .gatsby-resp-image-figcaption {
-  font-size: 0.7em;
-  color: $themeTextMuted;
+  @extend .txt-small;
+  @extend .txt-muted;
   margin-top: 0.5em;
   display: block;
   text-align: right;
@@ -53,6 +36,7 @@ h6,
 }
 
 .footnotes {
+  @extend .txt-small;
   margin-top: 2.5em;
 }
 
@@ -61,5 +45,7 @@ a.footnote-ref {
 }
 
 .blog-post-date {
+  @extend .txt-small;
+  @extend .txt-muted;
   margin-top: -1.2rem;
 }
