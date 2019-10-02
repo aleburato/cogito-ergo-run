@@ -21,27 +21,17 @@ h2,
 h3,
 h4,
 h5,
-h6,
-.blog-post-title a {
+h6 {
   color: $themeText;
 }
 
 .gatsby-resp-image-figcaption {
   @extend .txt-small;
   @extend .txt-muted;
-  margin-top: 0.5em;
+  margin-top: 0.25 * $themeRhythm;
   display: block;
   text-align: right;
   font-style: italic;
-}
-
-.footnotes {
-  @extend .txt-small;
-  margin-top: 2.5em;
-}
-
-a.footnote-ref {
-  padding-left: 0.2em;
 }
 
 .blog-post-date {

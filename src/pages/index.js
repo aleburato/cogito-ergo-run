@@ -20,13 +20,7 @@ function SiteIndex({ data, location }) {
         title={siteDescription}
         keywords={[`blog`, `running`, `corsa`, `correre`]}
       />
-      <div
-        style={{
-          marginBottom: rhythm(2.2)
-        }}
-      >
-        <Bio />
-      </div>
+      <Bio />
       {posts.map((edge, idx) => (
         <BlogPostExcerpt key={idx} post={edge.node} />
       ))}

@@ -3,7 +3,7 @@ import { StaticQuery, graphql } from "gatsby";
 import Image from "gatsby-image";
 import React from "react";
 
-import "./bio.css";
+import "./bio.scss";
 
 function Bio() {
   return (
