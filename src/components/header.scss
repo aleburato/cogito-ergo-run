@@ -1,0 +1,21 @@
+@import "../theme";
+
+.header-container {
+  margin-bottom: $themeRhythm * 1.5;
+}
+
+.blog-title {
+  font-size: 3rem;
+  margin-bottom: 0;
+  margin-left: -2px;
+}
+
+.blog-title-small {
+  font-size: 1.45rem;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.blog-description {
+  font-style: italic;
+}

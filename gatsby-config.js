@@ -12,6 +12,7 @@ module.exports = {
     }
   },
   plugins: [
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -72,13 +73,6 @@ module.exports = {
         useMozJpeg: true
       }
     },
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   }
-    // },
-    // `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -96,7 +90,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography`
+        pathToConfigModule: `src/utils/typography`,
+        omitGoogleFont: true
       }
     },
     `gatsby-plugin-netlify`,

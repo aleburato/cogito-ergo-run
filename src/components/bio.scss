@@ -1,6 +1,9 @@
+@import "../theme";
+
 .author-bio {
   display: flex;
   font-style: italic;
+  margin-bottom: 2 * $themeRhythm;
 }
 
 .author-avatar {

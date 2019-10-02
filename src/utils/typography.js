@@ -5,7 +5,7 @@ const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
 
 Theme.baseFontSize = "16px";
-Theme.baseLineHeight = 1.55;
+Theme.baseLineHeight = 1.6;
 
 // using local typefaces imported in gatsby-browser.js
 delete Theme.googleFonts;
@@ -21,8 +21,8 @@ delete Theme.googleFonts;
 //   }
 // ];
 
-Theme.headerFontFamily = [headerFontFamily, "Georgia", "serif"];
-Theme.bodyFontFamily = [bodyFontFamily, "helvetica", "sans-serif"];
+Theme.headerFontFamily = [headerFontFamily, "Helvetica", "sans-serif"];
+Theme.bodyFontFamily = [bodyFontFamily, "Georgia", "serif"];
 Theme.headerWeight = "normal";
 Theme.scaleRatio = 2.5;
 

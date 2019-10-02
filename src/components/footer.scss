@@ -1,0 +1,6 @@
+@import "../theme";
+
+.site-copyright {
+  @extend .txt-small;
+  font-style: italic;
+}

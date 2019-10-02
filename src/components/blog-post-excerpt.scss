@@ -1,0 +1,17 @@
+@import "../theme";
+
+a .blog-post-excerpt {
+  &,
+  &:hover {
+    color: $themeText;
+  }
+}
+
+.post-block + .post-block {
+  margin-top: 2.5em;
+}
+
+.read-all {
+  @extend .txt-small;
+  font-style: italic;
+}

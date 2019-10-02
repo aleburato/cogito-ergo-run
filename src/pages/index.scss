@@ -1,0 +1,41 @@
+@import "../theme";
+
+noscript#gatsby-noscript {
+  display: none;
+}
+
+body {
+  background: $themeBackground;
+  color: $themeText;
+}
+
+a {
+  color: $themeAccentPrimary;
+  &:hover {
+    color: $themeAccentSecondary;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $themeText;
+}
+
+.gatsby-resp-image-figcaption {
+  @extend .txt-small;
+  @extend .txt-muted;
+  margin-top: 0.25 * $themeRhythm;
+  display: block;
+  text-align: right;
+  font-style: italic;
+}
+
+.blog-post-date {
+  @extend .txt-small;
+  @extend .txt-muted;
+  margin-top: -1.2rem;
+}

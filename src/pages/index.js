@@ -1,4 +1,4 @@
-import "./index.css";
+import "./index.scss";
 
 import { graphql } from "gatsby";
 
@@ -6,7 +6,6 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import React from "react";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
 import { BlogPostExcerpt } from "../components/blog-post-excerpt";
 
 function SiteIndex({ data, location }) {
@@ -16,14 +15,11 @@ function SiteIndex({ data, location }) {
 
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
-      <SEO title={siteDescription} keywords={[`blog`, `running`, `corsa`, `correre`]} />
-      <div
-        style={{
-          marginBottom: rhythm(2.2)
-        }}
-      >
-        <Bio />
-      </div>
+      <SEO
+        title={siteDescription}
+        keywords={[`blog`, `running`, `corsa`, `correre`]}
+      />
+      <Bio />
       {posts.map((edge, idx) => (
         <BlogPostExcerpt key={idx} post={edge.node} />
       ))}

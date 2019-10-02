@@ -1,0 +1,7 @@
+@import "../theme";
+
+.layout-container {
+  margin: 0 auto;
+  max-width: 28 * $themeRhythm;
+  padding: 1.5 * $themeRhythm 0.75 * $themeRhythm;
+}
