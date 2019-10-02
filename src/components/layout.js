@@ -1,5 +1,7 @@
-import Header from "./header";
 import React from "react";
+
+import Header from "./header";
+import Footer from "./footer";
 
 import "./layout.scss";
 
@@ -14,17 +16,7 @@ function Layout({ location, title, description, children }) {
         description={description}
       />
       <main>{children}</main>
-      <footer>
-        <p>...</p>
-        <p>
-          <em>
-            <small>
-              © {new Date().getFullYear()}, costruito con amore, sudore, odore e{" "}
-              <a href="https://www.gatsbyjs.org">gatsbyjs</a>.
-            </small>
-          </em>
-        </p>
-      </footer>
+      <Footer />
     </div>
   );
 }

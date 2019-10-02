@@ -5,7 +5,7 @@ featuredImage: "./holger-link-724884-unsplash.jpg"
 featuredImageDesc: "Photo by Holger Link on Unsplash"
 ---
 
-"Come hai iniziato a correre?"
+_"Come hai iniziato a correre?"_
 
 Facendomi offendere. Siediti, che ti racconto.<!-- end -->
 
