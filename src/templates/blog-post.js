@@ -7,6 +7,8 @@ import FeaturedImage from "../components/featured-image";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
+import "./blog-post.scss";
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;

@@ -14,11 +14,7 @@ function Header({ isMain, title, description }) {
           <Link to={`/`}>{title}</Link>
           {isMain && <SiteLogo />}
         </h1>
-        {isMain ? (
-          <p className="blog-description">{description}.</p>
-        ) : (
-          <p>...</p>
-        )}
+        {isMain && <p className="blog-description">{description}.</p>}
       </div>
     </header>
   );

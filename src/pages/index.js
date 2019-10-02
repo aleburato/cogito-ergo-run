@@ -6,7 +6,6 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import React from "react";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
 import { BlogPostExcerpt } from "../components/blog-post-excerpt";
 
 function SiteIndex({ data, location }) {
