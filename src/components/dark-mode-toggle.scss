@@ -1,0 +1,14 @@
+@import "../theme";
+
+.dark-mode-toggle {
+  --darkModeToggleOpacity: 1;
+  opacity: 0;
+  opacity: var(--darkModeToggleOpacity);
+  float: right;
+  margin-top: -32px;
+  img {
+    width: 16px;
+    height: 16px;
+    pointer-events: none;
+  }
+}

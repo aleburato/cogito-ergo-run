@@ -2,6 +2,7 @@ import { Link } from "gatsby";
 import React from "react";
 
 import SiteLogo from "./site-logo";
+import DarkModeToggle from "./dark-mode-toggle";
 
 import "./header.scss";
 
@@ -14,6 +15,7 @@ function Header({ isMain, title, description }) {
           <Link to={`/`}>{title}</Link>
           {isMain && <SiteLogo />}
         </h1>
+        <DarkModeToggle />
         {isMain && <p className="blog-description">{description}.</p>}
       </div>
     </header>

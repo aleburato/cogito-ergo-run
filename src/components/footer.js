@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./footer.scss";
-import DarkModeToggle from "./dark-mode-toggle";
 
 function Footer() {
   return (
@@ -11,7 +10,6 @@ function Footer() {
         © {new Date().getFullYear()}, costruito con amore, sudore, odore e{" "}
         <a href="https://www.gatsbyjs.org">gatsbyjs</a>.
       </p>
-      <DarkModeToggle />
     </footer>
   );
 }
