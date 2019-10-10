@@ -1,13 +1,12 @@
 import React from "react";
 
-import logo from "../../content/assets/running.svg";
+import Logo from "../../assets/running.svg";
 
 function SiteLogo() {
   return (
-    <img
+    <Logo
       alt="The site logo"
       style={{ width: "24px", height: "24px", margin: "0 0 0 -0.1em" }}
-      src={logo}
     />
   );
 }

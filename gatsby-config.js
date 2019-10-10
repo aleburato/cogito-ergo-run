@@ -24,7 +24,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
+        path: `${__dirname}/assets`,
         name: `assets`
       }
     },
@@ -83,7 +83,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ac926c`,
         display: `minimal-ui`,
-        icon: `content/assets/running.svg`
+        icon: `assets/running.svg`
       }
     },
     `gatsby-plugin-offline`,
@@ -93,6 +93,14 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/typography`,
         omitGoogleFont: true
+      }
+    },
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /assets/
+        }
       }
     },
     `gatsby-plugin-netlify`,
