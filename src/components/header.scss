@@ -4,8 +4,19 @@
   margin-bottom: $themeRhythm * 1.5;
 }
 
+@media only screen and (min-width: 600px) {
+  .blog-title {
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .blog-title {
+    font-size: 2.1rem;
+  }
+}
+
 .blog-title {
-  font-size: 3rem;
   margin-bottom: 0;
   margin-left: -2px;
 }
