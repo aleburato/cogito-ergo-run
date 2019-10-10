@@ -5,43 +5,37 @@ noscript#gatsby-noscript {
 }
 
 $themeBackground: hsl(10, 12%, 96%);
-$themeBackgroundMuted: hsl(10, 20%, 94%);
 $themeText: hsl(10, 20%, 20%);
 $themeTextMuted: hsl(10, 20%, 50%);
 $themeAccentPrimary: hsl(10, 80%, 50%);
-$themeAccentSecondary: hsl(10, 60%, 50%);
+$themeAccentSecondary: hsl(10, 80%, 55%);
 
-$themeDarkBackground: hsl(230, 25%, 18%);
-$themeDarkBackgroundMuted: hsl(230, 18%, 10%);
-$themeDarkText: hsl(210, 50%, 96%);
-$themeDarkTextMuted: hsl(260, 20%, 35%);
-$themeDarkAccentPrimary: hsl(260, 100%, 80%);
-$themeDarkAccentSecondary: hsl(290, 100%, 70%);
+$themeDarkBackground: hsl(10, 16%, 16%);
+$themeDarkText: hsl(10, 12%, 80%);
+$themeDarkTextMuted: hsl(10, 16%, 50%);
+$themeDarkAccentPrimary: hsl(10, 80%, 50%);
+$themeDarkAccentSecondary: hsl(10, 80%, 55%);
 
-body.light-mode {
+body {
   --themeBackground: #{$themeBackground};
-  --themeBackgroundMuted: #{$themeBackgroundMuted};
   --themeText: #{$themeText};
   --themeTextMuted: #{$themeTextMuted};
   --themeAccentPrimary: #{$themeAccentPrimary};
   --themeAccentSecondary: #{$themeAccentSecondary};
-}
 
-body.dark-mode {
-  -webkit-font-smoothing: antialiased;
+  &.dark-mode {
+    -webkit-font-smoothing: antialiased;
 
-  --themeBackground: #{$themeDarkBackground};
-  --themeBackgroundMuted: #{$themeDarkBackgroundMuted};
-  --themeText: #{$themeDarkText};
-  --themeTextMuted: #{$themeDarkTextMuted};
-  --themeAccentPrimary: #{$themeDarkAccentPrimary};
-  --themeAccentSecondary: #{$themeDarkAccentSecondary};
-}
+    --themeBackground: #{$themeDarkBackground};
+    --themeText: #{$themeDarkText};
+    --themeTextMuted: #{$themeDarkTextMuted};
+    --themeAccentPrimary: #{$themeDarkAccentPrimary};
+    --themeAccentSecondary: #{$themeDarkAccentSecondary};
+  }
 
-body {
   background-color: var(--themeBackground);
   color: var(--themeText);
-  transition: color 0.2s ease-out, background 0.2s ease-out;
+  transition: color 0.3s ease-out, background 0.3s ease-out;
 }
 
 a {
