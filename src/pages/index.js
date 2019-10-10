@@ -8,6 +8,11 @@ import React from "react";
 import SEO from "../components/seo";
 import { BlogPostExcerpt } from "../components/blog-post-excerpt";
 
+// import cssVars from "css-vars-ponyfill";
+// window.setTimeout(() => {
+//   cssVars();
+// }, 1000);
+
 function SiteIndex({ data, location }) {
   const siteTitle = data.site.siteMetadata.title;
   const siteDescription = data.site.siteMetadata.description;

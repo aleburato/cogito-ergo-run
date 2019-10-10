@@ -12,7 +12,6 @@ module.exports = {
     }
   },
   plugins: [
-    `gatsby-plugin-sass`,
     "gatsby-plugin-use-dark-mode",
     {
       resolve: `gatsby-source-filesystem`,
@@ -104,6 +103,12 @@ module.exports = {
           removeViewBox: true, // remove viewBox when possible (default)
           cleanupIDs: true // remove unused IDs and minify remaining IDs (default)
         }
+      }
+    },
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        postCssPlugins: [require("postcss-preset-env")({ stage: 0 })]
       }
     },
     `gatsby-plugin-netlify`,

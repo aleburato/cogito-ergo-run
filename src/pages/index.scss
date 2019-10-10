@@ -4,35 +4,7 @@ noscript#gatsby-noscript {
   display: none;
 }
 
-$themeBackground: hsl(10, 12%, 96%);
-$themeText: hsl(10, 20%, 20%);
-$themeTextMuted: hsl(10, 20%, 50%);
-$themeAccentPrimary: hsl(10, 80%, 50%);
-$themeAccentSecondary: hsl(10, 80%, 55%);
-
-$themeDarkBackground: hsl(10, 16%, 16%);
-$themeDarkText: hsl(10, 12%, 80%);
-$themeDarkTextMuted: hsl(10, 16%, 50%);
-$themeDarkAccentPrimary: hsl(10, 80%, 50%);
-$themeDarkAccentSecondary: hsl(10, 80%, 55%);
-
 body {
-  --themeBackground: #{$themeBackground};
-  --themeText: #{$themeText};
-  --themeTextMuted: #{$themeTextMuted};
-  --themeAccentPrimary: #{$themeAccentPrimary};
-  --themeAccentSecondary: #{$themeAccentSecondary};
-
-  &.dark-mode {
-    -webkit-font-smoothing: antialiased;
-
-    --themeBackground: #{$themeDarkBackground};
-    --themeText: #{$themeDarkText};
-    --themeTextMuted: #{$themeDarkTextMuted};
-    --themeAccentPrimary: #{$themeDarkAccentPrimary};
-    --themeAccentSecondary: #{$themeDarkAccentSecondary};
-  }
-
   background-color: var(--themeBackground);
   color: var(--themeText);
   transition: color 0.3s ease-out, background 0.3s ease-out;
