@@ -41,7 +41,8 @@ export default class Toggle extends PureComponent {
     this.previouslyChecked = !!(props.checked || props.defaultChecked);
     this.state = {
       checked: !!(props.checked || props.defaultChecked),
-      hasFocus: false
+      hasFocus: false,
+      isClient: false
     };
   }
 
@@ -50,6 +51,11 @@ export default class Toggle extends PureComponent {
       this.setState({ checked: !!nextProps.checked });
       this.previouslyChecked = !!nextProps.checked;
     }
+  }
+
+  componentDidMount() {
+    // https://stackoverflow.com/questions/47202696/will-reactdom-hydrate-trigger-lifecycle-methods-on-the-client
+    this.setState({ isClient: true });
   }
 
   handleClick(event) {
@@ -160,7 +166,7 @@ export default class Toggle extends PureComponent {
       (this.state.hasFocus ? " react-toggle--focus" : "") +
       (this.props.disabled ? " react-toggle--disabled" : "") +
       (className ? " " + className : "");
-    return (
+    return this.state.isClient ? (
       <div
         className={classes}
         onClick={this.handleClick}
@@ -191,6 +197,6 @@ export default class Toggle extends PureComponent {
           aria-label="Switch between Dark and Light mode"
         />
       </div>
-    );
+    ) : null;
   }
 }
