@@ -111,6 +111,17 @@ module.exports = {
         postCssPlugins: [require("postcss-preset-env")({ stage: 0 })]
       }
     },
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        // your google analytics tracking id
+        trackingId: `UA-47144512-3`,
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // enable ip anonymization
+        anonymize: true
+      }
+    },
     `gatsby-plugin-netlify`,
     `gatsby-plugin-netlify-cache`
   ]
