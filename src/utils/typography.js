@@ -5,7 +5,7 @@ const headerFontFamily = "Unica One";
 const bodyFontFamily = "Merriweather";
 
 Theme.baseFontSize = "16px";
-Theme.baseLineHeight = 1.6;
+Theme.baseLineHeight = 1.5;
 
 // using local typefaces imported in gatsby-browser.js
 delete Theme.googleFonts;

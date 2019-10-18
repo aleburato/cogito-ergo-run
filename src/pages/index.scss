@@ -19,6 +19,12 @@ a {
   &:hover {
     color: var(--themeAccentSecondary);
   }
+  &.anchor svg {
+    &,
+    &:hover {
+      stroke: var(--themeText);
+    }
+  }
 }
 
 h1,
