@@ -9,9 +9,9 @@ body {
   color: var(--themeText);
   transition: color 0.3s ease-out, background 0.3s ease-out;
 
-  &.dark-mode {
-    font-weight: 300;
-  }
+  // &.dark-mode {
+  //   font-weight: 300;
+  // }
 }
 
 a {
