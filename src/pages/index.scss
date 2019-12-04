@@ -9,9 +9,13 @@ body {
   color: var(--themeText);
   transition: color 0.3s ease-out, background 0.3s ease-out;
 
-  // &.dark-mode {
-  //   font-weight: 300;
-  // }
+  &.dark-mode {
+    b,
+    bold,
+    strong {
+      color: $themeDarkBoldText;
+    }
+  }
 }
 
 a {
@@ -49,4 +53,32 @@ h6 {
   @extend .txt-small;
   @extend .txt-muted;
   margin-top: -1.2rem;
+}
+
+.footnotes > ol {
+  color: var(--themeTextMuted);
+  margin-left: 0;
+  list-style-position: inside;
+}
+
+li.task-list-item {
+  margin-left: 1.5rem;
+  list-style: none;
+  //   > *::before {
+  //     content: "☑";
+  //   }
+  & > input[type="checkbox"] {
+    position: absolute;
+    margin-left: -901.5rem;
+    // display: none;
+    &::before {
+      position: absolute;
+      margin-left: 900rem;
+      margin-top: 1px;
+      content: "☐";
+    }
+    &:checked::before {
+      content: "☑";
+    }
+  }
 }

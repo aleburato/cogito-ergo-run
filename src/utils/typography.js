@@ -12,12 +12,16 @@ delete Theme.googleFonts;
 
 Theme.headerFontFamily = [headerFontFamily, "Helvetica", "sans-serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "Georgia", "serif"];
-Theme.headerWeight = "normal";
+Theme.headerWeight = 400;
+Theme.bodyWeight = 300;
 Theme.scaleRatio = 2.5;
 
 Theme.overrideThemeStyles = ({ rhythm }, options) => ({
   "h1,h2,h3,h4,h5,h6": {
     textTransform: "uppercase"
+  },
+  "bold, b, strong": {
+    fontWeight: 400
   },
   ul: {
     listStyle: "square"

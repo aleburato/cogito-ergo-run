@@ -1,16 +1,17 @@
-$themeBackground: hsl(27, 12%, 94%);
-$themeBackgroundMuted: hsl(27, 12%, 87%);
-$themeText: hsl(27, 16%, 16%);
-$themeTextMuted: hsl(27, 20%, 50%);
-$themeAccentPrimary: hsl(27, 85%, 50%);
-$themeAccentSecondary: hsl(62, 82%, 30%);
+$themeBackground: hsl(27, 12%, 92%);
+$themeBackgroundMuted: hsl(27, 12%, 85%);
+$themeText: hsl(27, 12%, 15%);
+$themeTextMuted: hsl(27, 15%, 50%);
+$themeAccentPrimary: hsl(27, 65%, 50%);
+$themeAccentSecondary: hsl(62, 62%, 30%);
 
-$themeDarkBackground: hsl(27, 16%, 16%);
-$themeDarkBackgroundMuted: hsl(27, 16%, 22%);
+$themeDarkBackground: hsl(27, 12%, 15%);
+$themeDarkBackgroundMuted: hsl(27, 12%, 22%);
 $themeDarkText: hsl(27, 12%, 80%);
-$themeDarkTextMuted: hsl(27, 20%, 50%);
-$themeDarkAccentPrimary: hsl(27, 85%, 55%);
-$themeDarkAccentSecondary: hsl(62, 82%, 35%);
+$themeDarkBoldText: hsl(27, 12%, 95%);
+$themeDarkTextMuted: hsl(27, 10%, 50%);
+$themeDarkAccentPrimary: hsl(27, 65%, 55%);
+$themeDarkAccentSecondary: hsl(62, 62%, 35%);
 
 :root {
   --themeBackground: #{$themeBackground};
