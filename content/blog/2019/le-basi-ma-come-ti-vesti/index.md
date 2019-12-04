@@ -35,7 +35,7 @@ Consiglio pratico: entra in un Decathlon qualsiasi e prendi tutto ciò che ti se
 
 ## E l'orologio GPS supersmart? E la musica?
 
-![Podista con smartwatch, photo by Zan Ilic on Unsplash](runner-watch.jpg)
+![Podista con smartwatch (foto di Zan Ilic su Unsplash)](runner-watch.jpg)
 
 Fino a che non riesci a correre per almeno **40 minuti di fila**, non ha molto senso misurare le prestazioni velocistiche e/o monitorare la frequenza cardiaca: andrai molto piano, puoi stare tranquillo e fidarti del tuo corpo.
 

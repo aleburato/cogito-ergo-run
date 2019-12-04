@@ -2,7 +2,7 @@
 title: "Sull'evitabilità del correre"
 date: "2019-11-26"
 featuredImage: "./run-like-a-dog.jpg"
-featuredImageDesc: "These boots are made for walking (photo by Cain Beaudoin on Unsplash)"
+featuredImageDesc: "These boots are made for walking (foto di Cain Beaudoin su Unsplash)"
 ---
 
 Capìta la battuta? Eh? _"Un blog sull'inevitabiltà del correre",_ quindi un post sull'-- Ok, continua a leggere, dai. Ti prometto che migliorerà.<!-- end -->
@@ -23,7 +23,7 @@ Te l'avevo detto. È inevitabile, quasi come la corsa. Fa vedere, dove ti fa mal
 
 La conclusione è però sempre la stessa: _ti devi fermare_ e prendere provvedimenti. Altrimenti la situazione peggiorerà, fino a costringerti a cambiare sport. Te lo immagini essere costretto a ripiegare sul ciclismo? _Mammeglio_, piuttosto l'ippica[^3].
 
-![Time to Relax (photo by Sam Butcher on Unsplash)](time-to-relax.jpg)
+![Time to Relax (foto di Sam Butcher su Unsplash)](time-to-relax.jpg)
 
 ## Cursum desisto, ergo cogito
 
@@ -39,7 +39,7 @@ Qui abbiamo un (non più) giovane uomo di 43 primavere, corre in maniera continu
 
 Ha messo circa 400km nelle scarpe, quindi magari è il caso di comprarle nuove (e anche se non è il caso ne ha voglia). Le compra, scegliendole completamente diverse da quelle usate fino ad allora --ché se si cambia lo si fa per bene o per niente: passa pertanto da un paio di Asics Gel Cumulus 18 _(per pronatori, drop 10mm)_ a delle Hoka One One Bondi 5 _(neutrali, drop 4mm)_. Il novello [Gelindo Bordin](https://it.wikipedia.org/wiki/Gelindo_Bordin) ha inoltre letto da poco un libro sulla tecnica di corsa, dove si consiglia _ai podisti avanzati_ l'uso di un _metronomo_ durante l'allenamento per raggiungere il ritmo ottimale di 180 passi al minuto.
 
-![Come fallire clamorosamente (photo on Unsplash)](epic-fail.jpg)
+![Come fallire clamorosamente (foto di Gareth Harrison su Unsplash)](epic-fail.jpg)
 
 Quindi, vediamo cosa manca alla ricetta dello chef per farsi male in maniera sicura e spettacolare:
 
@@ -57,7 +57,7 @@ Il risultato? Mr. _"43 primavere e non capire una mazza"_ dopo 15km di esaltazio
 
 Inizialmente, male. Appena il ginocchio ha iniziato a calmarsi ho riprovato subito a correrci sopra, col risultato di infiammarlo ancora di più. Il risultato finale è stato uno stop forzato di quasi 3 mesi. Dopo il primo mese per fortuna la voglia di tornare a correre era talmente intensa che ho iniziato ad andare in palestra, dove un istruttore molto preparato ha analizzato il mio problema, mi ha spiegato che dipendeva da una serie di difetti posturali che erano stati esacerbati dalla combinazione _"scarpe nuove + distanza eccessiva + ritmo di corsa innaturale"_ ed abbiamo iniziato a lavorare assieme per migliorarli.[^4]
 
-![Hop! (photo by Charles Cheng on Unsplash)](flip.jpg)
+![Hop! (foto di Charles Cheng su Unsplash)](flip.jpg)
 
 ## Cosa ho imparato?
 
@@ -75,7 +75,7 @@ Insomma, è tutto un cadere e rialzarsi, più o meno metaforicamente. Di sicuro 
 
 L'altra mattina io e mia figlia (10 anni) abbiamo corso per la prima volta insieme. _"Vai piano amore, altrimenti finisci subito tutte le energie, ricorda che quello che corriamo all'andata lo dobbiamo fare anche al ritorno"_. Lei ha annuito e si è fatta i primi 3km sotto i 6 min/km apparentemente senza sforzo, per poi fermarsi di colpo e _"ora sono stanca, torniamo camminando"_. Il tutto mentre suo fratello di 8 anni sfrecciava avanti e indietro in bicicletta e ci prendeva in giro.
 
-![E sai ti acchiappo, sì](run-baby-run.jpg)
+![E sai ti acchiappo, sì (foto di babbo mentre correva)](run-baby-run.jpg)
 
 Ma io vi ci riporto, sì, in Ungheria. E poi vi riporto indietro. _A corsa_.
 
