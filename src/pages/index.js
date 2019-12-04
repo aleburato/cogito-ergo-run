@@ -1,5 +1,3 @@
-import "./index.scss";
-
 import { graphql } from "gatsby";
 
 import Bio from "../components/bio";
