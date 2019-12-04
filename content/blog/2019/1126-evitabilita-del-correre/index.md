@@ -75,7 +75,7 @@ Insomma, è tutto un cadere e rialzarsi, più o meno metaforicamente. Di sicuro 
 
 L'altra mattina io e mia figlia (10 anni) abbiamo corso per la prima volta insieme. _"Vai piano amore, altrimenti finisci subito tutte le energie, ricorda che quello che corriamo all'andata lo dobbiamo fare anche al ritorno"_. Lei ha annuito e si è fatta i primi 3km sotto i 6 min/km apparentemente senza sforzo, per poi fermarsi di colpo e _"ora sono stanca, torniamo camminando"_. Il tutto mentre suo fratello di 8 anni sfrecciava avanti e indietro in bicicletta e ci prendeva in giro.
 
-![E sai ti acchiappo, sì (foto di babbo mentre correva)](run-baby-run.jpg)
+![Corri bimba, corri (foto di babbo Ale)](run-baby-run.jpg)
 
 Ma io vi ci riporto, sì, in Ungheria. E poi vi riporto indietro. _A corsa_.
 
