@@ -13,7 +13,7 @@ delete Theme.googleFonts;
 Theme.headerFontFamily = [headerFontFamily, "Helvetica", "sans-serif"];
 Theme.bodyFontFamily = [bodyFontFamily, "Georgia", "serif"];
 Theme.headerWeight = 400;
-Theme.bodyWeight = 300;
+// Theme.bodyWeight = 300;
 Theme.scaleRatio = 2.5;
 
 Theme.overrideThemeStyles = ({ rhythm }, options) => ({
@@ -21,7 +21,7 @@ Theme.overrideThemeStyles = ({ rhythm }, options) => ({
     textTransform: "uppercase"
   },
   "bold, b, strong": {
-    fontWeight: 400
+    // fontWeight: 400
   },
   ul: {
     listStyle: "square"
