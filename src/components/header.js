@@ -2,6 +2,7 @@ import { Link } from "gatsby";
 import React from "react";
 
 import SiteLogo from "./site-logo";
+import SiteNavigation from "./site-navigation";
 import DarkModeToggle from "./dark-mode-toggle";
 
 import "./header.scss";
@@ -20,25 +21,6 @@ function Header({ isMain, title, description }) {
         <SiteNavigation />
       </div>
     </header>
-  );
-}
-
-function SiteNavigation() {
-  const SITE_MAP = [
-    { path: "/", name: "Blog" },
-    { path: "/attrezzatura", name: "Attrezzatura" },
-    { path: "/contattami", name: "Contattami" }
-  ];
-  return (
-    <ul className="site-navigation">
-      {SITE_MAP.map(item => (
-        <li key={item.name}>
-          <Link activeClassName="site-navigation-active-item" to={item.path}>
-            {item.name}
-          </Link>
-        </li>
-      ))}
-    </ul>
   );
 }
 
