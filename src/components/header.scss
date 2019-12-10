@@ -22,11 +22,39 @@
 }
 
 .blog-title-small {
-  font-size: 1.45rem;
+  font-size: 1.55rem;
   margin-top: 0;
   margin-bottom: 0.25rem;
 }
 
 .blog-description {
   font-style: italic;
+}
+
+ul.site-navigation {
+  font-family: "Unica One", sans-serif;
+  text-transform: uppercase;
+  color: var(--themeTextMuted);
+  margin: 0;
+  padding: 0;
+  li {
+    display: inline;
+    a {
+      color: var(--themeTextMuted);
+      &:hover {
+        color: var(--themeAccentPrimary);
+      }
+      &.site-navigation-active-item {
+        cursor: default;
+        &:hover {
+          color: var(--themeTextMuted);
+        }
+      }
+    }
+  }
+  li + li {
+    &::before {
+      content: " | ";
+    }
+  }
 }
