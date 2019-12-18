@@ -15,8 +15,9 @@ ul.site-navigation {
       }
       &.site-navigation-active-item {
         cursor: default;
+        &,
         &:hover {
-          color: var(--themeTextMuted);
+          color: var(--themeAccentSecondary);
         }
       }
     }
