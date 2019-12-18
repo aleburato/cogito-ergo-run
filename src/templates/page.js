@@ -7,14 +7,22 @@ import SEO from "../components/seo";
 
 class PageTemplate extends React.Component {
   render() {
-    const page = this.props.data.markdownRemark;
-    const siteTitle = this.props.data.site.siteMetadata.title;
+    const {
+      site: {
+        siteMetadata: { title: siteTitle }
+      },
+      markdownRemark: {
+        html,
+        excerpt,
+        frontmatter: { title: pageTitle }
+      }
+    } = this.props.data;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={page.frontmatter.title} description={page.excerpt} />
-        <h1>{page.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: page.html }} />
+        <SEO title={pageTitle} description={excerpt} />
+        <h1>{pageTitle}</h1>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       </Layout>
     );
   }
