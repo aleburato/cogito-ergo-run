@@ -27,7 +27,7 @@ La conclusione è però sempre la stessa: _ti devi fermare_ e prendere provvedim
 
 ## Cursum desisto, ergo cogito
 
-Non è questo il luogo adatto per approfondire le metodologie di trattamento dei varii infortuni: non sono un podista esperto né tantomeno un fisiatra e/o un medico dello sport. Quello di cui vorrei discutere è: _come sfrutti l'opportunità dell'infortunio?_ A parte imparare nuove imprecazioni, dico.
+Non è questo il luogo adatto per approfondire le metodologie di trattamento dei varii infortuni: non sono un podista esperto né tantomeno un fisiatra e/o un medico dello sport. Quello di cui vorrei discutere è: _**come sfrutti l'opportunità dell'infortunio?**_ A parte imparare nuove imprecazioni, dico.
 
 **Un imprevisto può essere trasformato in opportunità.** L'incidente che ora odii con tutto te stesso può, anzi _deve_ spingerti a riconsiderare il modo in cui ti alleni e porti avanti quella che con tutta probabilità da curiosità iniziale è diventata una _necessità_. Che non vuol dire che tu stia facendo qualcosa di sbagliato: devi solo correggere la mira, perché eventi "esterni" a parte (tipo: non hai potuto allenarti per via di un'appendicite), è evidente che qualcosa non ha funzionato come doveva.
 

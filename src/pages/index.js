@@ -35,12 +35,16 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { fields: { collection: { eq: "blog" } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       edges {
         node {
           excerpt(format: HTML, pruneLength: 160)
           fields {
             slug
+            collection
           }
           frontmatter {
             date(formatString: "DD MMMM YYYY", locale: "it")
