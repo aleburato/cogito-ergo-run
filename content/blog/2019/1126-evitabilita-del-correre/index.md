@@ -69,9 +69,11 @@ Mi sono fermato molte altre volte da allora, non sempre a causa di infortuni: ne
 
 ![Alti e bassi nella vita di un podista amatoriale](tutti-i-miei-sbagli.png)
 
+Un caro amico che è passato dal calcetto alle ultramaratone mi ha ricordato che **il presupposto perché un allenamento sia efficace è la rottura dell'equilibrio dei tuoi sistemi:** in questo modo corpo e mente reagiscono e si preparano ad affrontare sfide sempre maggiori, sviluppando resistenza, forza (fisica e di volontà) e --perché no-- quell'incoscienza necessaria a fare il "passo più lungo della gamba".
+
 Insomma, è tutto un cadere e rialzarsi, più o meno metaforicamente. Di sicuro non posso pretendere la "resistenza all'usura" di un ventenne: ho 45 anni, 20 anni di lavoro al computer mi hanno forgiato storto e rigido, ma _gli ultimi 3 anni di sport mi hanno letteralmente salvato la vita:_ la corsa mi ha dato e mi darà moltissimo, in termini di salute fisica e mentale.
 
-## La scena dopo i crediti finali
+## La scena dopo i titoli di coda
 
 L'altra mattina io e mia figlia (10 anni) abbiamo corso per la prima volta insieme. _"Vai piano amore, altrimenti finisci subito tutte le energie, ricorda che quello che corriamo all'andata lo dobbiamo fare anche al ritorno"_. Lei ha annuito e si è fatta i primi 3km sotto i 6 min/km apparentemente senza sforzo, per poi fermarsi di colpo e _"ora sono stanca, torniamo camminando"_. Il tutto mentre suo fratello di 8 anni sfrecciava avanti e indietro in bicicletta e ci prendeva in giro.
 
