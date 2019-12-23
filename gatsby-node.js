@@ -105,7 +105,7 @@ const createPagesByQuery = (graphql, createPage) => async (query, template) => {
     const { slug, collection } = page.node.fields;
     const previous = index === pages.length - 1 ? null : pages[index + 1].node;
     const next = index === 0 ? null : pages[index - 1].node;
-    console.log(">>> Create page", { slug, collection });
+    // console.log(">>> Create page", { slug, collection });
     createPage({
       path: slug,
       component: pageTemplate,

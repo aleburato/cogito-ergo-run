@@ -21,7 +21,6 @@ class PageTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={pageTitle} description={excerpt} />
-        <h1>{pageTitle}</h1>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </Layout>
     );

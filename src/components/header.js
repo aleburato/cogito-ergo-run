@@ -2,7 +2,7 @@ import { Link } from "gatsby";
 import React from "react";
 
 import SiteLogo from "./site-logo";
-import SiteNavigation from "./site-navigation";
+import { SiteNavigation } from "./site-navigation";
 import DarkModeToggle from "./dark-mode-toggle";
 
 import "./header.scss";

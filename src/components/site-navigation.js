@@ -1,17 +1,47 @@
-import { Link } from "gatsby";
+import { Link, useStaticQuery, graphql } from "gatsby";
 import React from "react";
 
 import "./site-navigation.scss";
 
-const SiteNavigation = React.memo(() => {
-  const SITE_MAP = [
-    { path: "/", name: "Blog" },
-    { path: "/attrezzatura", name: "Attrezzatura" },
-    { path: "/contattami", name: "Contattami" }
+const STATIC_SITE_MAP = [{ path: "/", name: "Blog" }];
+
+export const SiteNavigation = () => {
+  const pageList = useStaticQuery(graphql`
+    query PageListQuery {
+      allMarkdownRemark(filter: { fields: { collection: { eq: "pages" } } }) {
+        edges {
+          node {
+            fields {
+              slug
+              collection
+            }
+            frontmatter {
+              title
+            }
+          }
+        }
+      }
+    }
+  `);
+
+  const siteMap = [
+    ...STATIC_SITE_MAP,
+    ...pageList.allMarkdownRemark.edges.map(
+      ({
+        node: {
+          fields: { slug },
+          frontmatter: { title }
+        }
+      }) => ({
+        path: slug,
+        name: title
+      })
+    )
   ];
+
   return (
     <ul className="site-navigation">
-      {SITE_MAP.map(item => (
+      {siteMap.map(item => (
         <li key={item.name}>
           <Link activeClassName="site-navigation-active-item" to={item.path}>
             {item.name}
@@ -20,6 +50,4 @@ const SiteNavigation = React.memo(() => {
       ))}
     </ul>
   );
-});
-
-export default SiteNavigation;
+};
