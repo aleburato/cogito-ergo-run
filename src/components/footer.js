@@ -7,8 +7,9 @@ function Footer() {
     <footer>
       <p>...</p>
       <p className="site-copyright">
-        © {new Date().getFullYear()}, costruito con amore, sudore, odore e{" "}
-        <a href="https://www.gatsbyjs.org">gatsbyjs</a>. p.s.:{" "}
+        ©2018-{new Date().getFullYear()} Alessandro Burato, costruito con amore,
+        sudore, odore e <a href="https://www.gatsbyjs.org">gatsbyjs</a>.<br />
+        p.s.:{" "}
         <a href="https://amzn.to/33okzLh">cosa faresti se non avessi paura?</a>
       </p>
     </footer>
