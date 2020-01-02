@@ -30,11 +30,11 @@ A differenza di orologio e fascia, non posso consigliarvi un paio di scarpe a pr
 
 Queste sono quelle su cui ho messo gli ultimi 600km di corsa e che mi sono piaciute di più in assoluto: comodissime, bilanciate, anche lievemente reattive, molto ma molto resistenti --sono ancora praticamente nuove e sebbene il kilometraggio mi imporrà a breve di sostituirle, continuerò a portarle come scarpe da passeggio.
 
-## Calze: Gore Running Wear
+## Calze: X-Socks/Gore Running Wear
 
-[![Le mie calze: Gore Running Wear](calze.jpg)](https://amzn.to/2QqDwbV)
+[![Le mie calze: X-Socks Run Speed Two](calze-x-bionic.jpg)](https://amzn.to/2Fahhlc)
 
-[Un paio di calze 15 euro?](https://amzn.to/2QqDwbV) Eh sì. E le valgono tutte. Primo perché sono indistruttibili, secondo perché ti coccoleranno il piede, terzo perché puoi comprarne anche solo due paia e andarci avanti 2 anni lavando un paio e indossando l'altro. Nella mia esperienza, sono sempre morbide come la prima volta, anche se iniziano a mostrare i primi segni di consumo. Ho provato anche modelli equivalenti di Asics ma non c'è paragone, dopo pochi lavaggi sono diventate ruvide come i peggio calzini del discount.
+[Un paio di calze 15 euro?](https://amzn.to/2Fahhlc) Eh sì. E le valgono tutte. Primo perché sono indistruttibili, secondo perché ti coccoleranno il piede, terzo perché puoi comprarne anche solo due paia e andarci avanti 2 anni lavando un paio e indossando l'altro. Nella mia esperienza, sono sempre morbide come la prima volta, anche se iniziano a mostrare i primi segni di consumo. Ho provato anche modelli equivalenti di Asics ma non c'è paragone, dopo pochi lavaggi sono diventate ruvide come i peggio calzini del discount. Altra ottima scelta sono i prodotti di [Gore Running Wear](https://amzn.to/2SKSBrt), sempre sullo stesso prezzo.
 
 Rispetto a un paio di calze non specifiche riducono enormemente la possibilità di vesciche e bruciature da sfregamento, fanno respirare il piede di estate e lo tengono al caldo di inverno. Certo, se poi infili il piede in un paio di scarpe sbagliate, è tutto inutile: sono calze, non reliquie miracolose.
 
