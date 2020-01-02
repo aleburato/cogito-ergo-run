@@ -6,6 +6,7 @@ ul.site-navigation {
   margin: 0;
   padding: 0;
   li {
+    color: var(--themeTextMuted);
     display: inline;
     a.site-navigation-active-item {
       cursor: default;

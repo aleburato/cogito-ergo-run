@@ -4,7 +4,7 @@ title: "Attrezzatura"
 
 # Gli attrezzi del mestiere
 
-Nel caso ti interessasse, questi sono gli strumenti che utilizzo per accompagnarmi nella corsa. _Caveat emptor[^1]:_ i link portano all'affiliazione di Amazon perché due eventuali spiccioli di commissione non guastano e a te non costa nulla. Detto questo, **_io non faccio marchette_**: qui troverai solo i pochi oggetti che utilizzo regolarmente durante i miei allenamenti, comprati con i miei soldi e non _"in prova"_.
+Nel caso ti interessasse, questi sono gli strumenti che utilizzo per accompagnarmi nella corsa. _Caveat emptor[^1]:_ i link portano all'affiliazione di Amazon perché due eventuali spiccioli di commissione non guastano --e a te non costa nulla. Detto questo, **_io non faccio marchette_**: qui troverai solo i pochi oggetti che utilizzo regolarmente durante i miei allenamenti, comprati con i miei soldi e non _"in prova"_.
 
 ## Orologio: Polar Vantage M
 
