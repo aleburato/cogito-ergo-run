@@ -7,8 +7,6 @@ import FeaturedImage from "../components/featured-image";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
-import "./blog-post.scss";
-
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
@@ -18,16 +16,13 @@ class BlogPostTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
-        <h1 className="blog-post-title">{post.frontmatter.title}</h1>
+        <h1>{post.frontmatter.title}</h1>
         <p className="blog-post-date">{post.frontmatter.date}</p>
         <FeaturedImage
           image={post.frontmatter.featuredImage}
           imageCaption={post.frontmatter.featuredImageDesc}
         />
-        <div
-          className="post-content"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>...</p>
 
         {(previous || next) && (

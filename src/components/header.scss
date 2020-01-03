@@ -1,4 +1,4 @@
-@import "../theme";
+@import "../styles/theme";
 
 .header-container {
   margin-bottom: $themeRhythm * 1.5;
@@ -22,7 +22,7 @@
 }
 
 .blog-title-small {
-  font-size: 1.45rem;
+  font-size: 1.55rem;
   margin-top: 0;
   margin-bottom: 0.25rem;
 }

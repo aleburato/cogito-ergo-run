@@ -2,7 +2,7 @@
 title: "Le basi: prima si cammina, poi..."
 date: "2019-07-04"
 featuredImage: "./andre-mohamed-F8fxKKWgYPw-unsplash.jpg"
-featuredImageDesc: "Photo by Andre Mohamed on Unsplash"
+featuredImageDesc: "(foto di Andre Mohamed su Unsplash)"
 ---
 
 Guarda, è semplicissimo. Se inizi fin da subito con la corsa, ci sono grosse probabilità che tu molli tutto dopo poco tempo. Magari facendoti anche male.<!-- end -->
@@ -17,7 +17,7 @@ Inizialmente registro ogni camminata direttamente con [Strava](https://www.strav
 
 So di essere una persona poco costante, per questo fin da subito mi do una semplice regola --**"non un metro di meno, non un minuto fermo"**: prima di uscire a camminare decido quanti km voglio fare quel giorno **e li faccio**, sempre, senza eccezioni, senza fermarmi. Anche se inizia a piovere, anche se incontro degli amici, anche se mi fa male qualcosa; se mancano 100 metri alla distanza stabilita, ne percorro 200, _mai_ 99.
 
-![Cammina, cammina!](justin-little-hxUnNtWIjso-unsplash.jpg)
+![Cammina, cammina! (foto di Justin Little su Unsplash)](justin-little-hxUnNtWIjso-unsplash.jpg)
 
 Una semplicissima regola, _che ad oggi non ho mai infranto_, spazza via anni di circoli viziosi e dà vita a un **circolo virtuoso**: _"se l'ultima volta ce l'ho fatta, ce la farò anche oggi. Se mollo, mollerò anche domani"_.
 

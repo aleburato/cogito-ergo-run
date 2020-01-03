@@ -1,0 +1,24 @@
+@import "../styles/theme";
+
+ul.site-navigation {
+  font-family: "Unica One", sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  li {
+    color: var(--themeTextMuted);
+    display: inline;
+    a.site-navigation-active-item {
+      cursor: default;
+      &,
+      &:hover {
+        color: var(--themeTextMuted);
+      }
+    }
+  }
+  li + li {
+    &::before {
+      content: " | ";
+    }
+  }
+}

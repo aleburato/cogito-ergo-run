@@ -23,6 +23,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/content/pages`,
+        name: `pages`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/assets`,
         name: `assets`
       }
@@ -57,7 +64,7 @@ module.exports = {
             options: {
               footnoteBackRefPreviousElementDisplay: "inline",
               footnoteBackRefDisplay: "inline",
-              // footnoteBackRefInnerText: "^", // Defaults to: "↩"
+              footnoteBackRefInnerText: "≪", // Defaults to: "↩"
               //use if you want the Wikipedia style ^ link without an underline beneath it
               footnoteBackRefAnchorStyle: `text-decoration: none;`
               //use "front" for Wikipedia style ^ links

@@ -1,17 +1,10 @@
-import "./index.scss";
-
+import React from "react";
 import { graphql } from "gatsby";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-import React from "react";
 import SEO from "../components/seo";
 import { BlogPostExcerpt } from "../components/blog-post-excerpt";
-
-// import cssVars from "css-vars-ponyfill";
-// window.setTimeout(() => {
-//   cssVars();
-// }, 1000);
 
 function SiteIndex({ data, location }) {
   const siteTitle = data.site.siteMetadata.title;
@@ -42,12 +35,16 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { fields: { collection: { eq: "blog" } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       edges {
         node {
           excerpt(format: HTML, pruneLength: 160)
           fields {
             slug
+            collection
           }
           frontmatter {
             date(formatString: "DD MMMM YYYY", locale: "it")
