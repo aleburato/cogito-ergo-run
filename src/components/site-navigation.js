@@ -41,7 +41,7 @@ export const SiteNavigation = () => {
 
   return (
     <ul className="site-navigation">
-      {siteMap.map(item => (
+      {siteMap.map((item) => (
         <li key={item.name}>
           <Link activeClassName="site-navigation-active-item" to={item.path}>
             {item.name}
